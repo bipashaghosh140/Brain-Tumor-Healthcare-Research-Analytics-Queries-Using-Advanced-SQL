@@ -1,0 +1,1001 @@
+patient_id,age,sex,tumor_type,grade,diagnosis_date,hospital,country
+P100000,62,Other,Glioblastoma (GBM),IV,16-05-2021,St. Mary's Hospital,UK
+P100001,54,Other,Glioblastoma (GBM),IV,21-01-2023,NeuroCare Center,France
+P100002,65,Female,Glioblastoma (GBM),I,21-04-2021,University Medical Centre,France
+P100003,77,Male,Astrocytoma,IV,07-12-2023,University Medical Centre,Australia
+P100004,52,Male,Astrocytoma,II,15-11-2024,NeuroCare Center,UK
+P100005,52,Other,Astrocytoma,II,16-03-2021,Central Oncology Institute,USA
+P100006,78,Male,Glioblastoma (GBM),III,05-12-2021,University Medical Centre,China
+P100007,66,Male,Meningioma,III,15-06-2025,Regional Neuro Hospital,USA
+P100008,49,Other,Glioblastoma (GBM),IV,18-12-2024,Central Oncology Institute,France
+P100009,63,Male,Meningioma,I,11-04-2021,Central Oncology Institute,USA
+P100010,49,Male,Metastasis,III,17-07-2022,Central Oncology Institute,UK
+P100011,49,Female,Glioblastoma (GBM),IV,08-12-2023,NeuroCare Center,France
+P100012,59,Other,Glioblastoma (GBM),IV,30-11-2020,Regional Neuro Hospital,Australia
+P100013,29,Female,Metastasis,IV,14-02-2023,St. Mary's Hospital,Brazil
+P100014,31,Male,Glioblastoma (GBM),I,08-10-2021,Regional Neuro Hospital,China
+P100015,48,Male,Glioblastoma (GBM),IV,29-11-2024,Central Oncology Institute,Germany
+P100016,41,Other,Astrocytoma,IV,09-08-2023,Regional Neuro Hospital,UK
+P100017,60,Female,Glioblastoma (GBM),IV,08-01-2023,Central Oncology Institute,France
+P100018,43,Female,Metastasis,III,25-03-2021,St. Mary's Hospital,Japan
+P100019,36,Female,Glioblastoma (GBM),I,12-08-2020,St. Mary's Hospital,UK
+P100020,76,Other,Astrocytoma,I,20-02-2022,University Medical Centre,Canada
+P100021,52,Other,Glioblastoma (GBM),III,14-04-2025,NeuroCare Center,USA
+P100022,56,Other,Metastasis,IV,23-04-2024,Central Oncology Institute,USA
+P100023,36,Female,Astrocytoma,III,07-05-2025,Central Oncology Institute,Japan
+P100024,48,Male,Astrocytoma,II,04-07-2023,Central Oncology Institute,Japan
+P100025,57,Other,Glioblastoma (GBM),III,26-11-2020,University Medical Centre,Japan
+P100026,39,Male,Astrocytoma,III,17-08-2020,Central Oncology Institute,China
+P100027,61,Male,Glioblastoma (GBM),IV,23-04-2025,NeuroCare Center,USA
+P100028,47,Other,Astrocytoma,I,06-04-2024,University Medical Centre,UK
+P100029,51,Male,Meningioma,IV,04-12-2020,Central Oncology Institute,Japan
+P100030,47,Other,Astrocytoma,II,09-01-2023,St. Mary's Hospital,China
+P100031,81,Female,Metastasis,IV,16-06-2022,University Medical Centre,Canada
+P100032,55,Male,Glioblastoma (GBM),I,13-02-2020,University Medical Centre,Japan
+P100033,41,Male,Astrocytoma,I,20-12-2023,NeuroCare Center,Germany
+P100034,67,Male,Metastasis,IV,25-05-2020,University Medical Centre,Germany
+P100035,38,Female,Meningioma,II,27-09-2020,University Medical Centre,France
+P100036,58,Female,Glioblastoma (GBM),III,13-04-2022,St. Mary's Hospital,USA
+P100037,28,Male,Meningioma,III,21-04-2022,Regional Neuro Hospital,India
+P100038,37,Other,Meningioma,IV,04-05-2020,Regional Neuro Hospital,Brazil
+P100039,58,Male,Glioblastoma (GBM),II,07-07-2022,St. Mary's Hospital,Australia
+P100040,66,Male,Glioblastoma (GBM),II,05-03-2025,NeuroCare Center,Canada
+P100041,58,Other,Glioblastoma (GBM),IV,12-01-2023,NeuroCare Center,USA
+P100042,54,Male,Glioblastoma (GBM),III,13-03-2021,Regional Neuro Hospital,India
+P100043,51,Male,Glioblastoma (GBM),IV,27-06-2021,Regional Neuro Hospital,China
+P100044,35,Female,Meningioma,IV,23-05-2024,University Medical Centre,Canada
+P100045,45,Male,Glioblastoma (GBM),II,29-04-2020,University Medical Centre,Japan
+P100046,49,Male,Meningioma,I,11-04-2023,Regional Neuro Hospital,Japan
+P100047,70,Other,Glioblastoma (GBM),IV,13-06-2020,St. Mary's Hospital,USA
+P100048,60,Other,Glioblastoma (GBM),IV,06-04-2022,NeuroCare Center,France
+P100049,31,Male,Astrocytoma,I,16-06-2020,Regional Neuro Hospital,France
+P100050,60,Other,Astrocytoma,IV,22-02-2021,Central Oncology Institute,Germany
+P100051,50,Female,Glioblastoma (GBM),IV,06-09-2021,Regional Neuro Hospital,Brazil
+P100052,46,Male,Glioblastoma (GBM),IV,27-02-2023,NeuroCare Center,USA
+P100053,64,Other,Glioblastoma (GBM),II,26-03-2025,Central Oncology Institute,USA
+P100054,70,Male,Glioblastoma (GBM),II,03-09-2024,University Medical Centre,China
+P100055,69,Other,Metastasis,IV,19-12-2022,NeuroCare Center,Japan
+P100056,44,Female,Metastasis,II,03-12-2024,St. Mary's Hospital,China
+P100057,51,Male,Metastasis,IV,14-11-2020,Central Oncology Institute,China
+P100058,60,Other,Glioblastoma (GBM),III,08-11-2023,Central Oncology Institute,Japan
+P100059,69,Female,Glioblastoma (GBM),IV,14-04-2020,NeuroCare Center,Australia
+P100060,49,Female,Glioblastoma (GBM),III,24-09-2020,Central Oncology Institute,UK
+P100061,53,Other,Astrocytoma,IV,22-02-2023,NeuroCare Center,USA
+P100062,40,Male,Metastasis,IV,01-11-2020,University Medical Centre,India
+P100063,39,Female,Astrocytoma,II,18-09-2020,NeuroCare Center,China
+P100064,67,Female,Metastasis,IV,28-10-2024,NeuroCare Center,Brazil
+P100065,74,Male,Meningioma,IV,25-12-2021,University Medical Centre,Australia
+P100066,54,Other,Meningioma,IV,29-04-2021,St. Mary's Hospital,UK
+P100067,70,Female,Glioblastoma (GBM),IV,11-11-2021,Regional Neuro Hospital,Germany
+P100068,61,Female,Glioblastoma (GBM),IV,22-02-2022,NeuroCare Center,Canada
+P100069,46,Male,Glioblastoma (GBM),IV,17-12-2021,Central Oncology Institute,Germany
+P100070,61,Male,Glioblastoma (GBM),II,03-11-2021,Central Oncology Institute,USA
+P100071,77,Female,Glioblastoma (GBM),III,23-10-2023,University Medical Centre,Brazil
+P100072,55,Male,Glioblastoma (GBM),IV,31-12-2020,University Medical Centre,China
+P100073,77,Male,Glioblastoma (GBM),III,01-02-2024,Central Oncology Institute,Australia
+P100074,19,Other,Metastasis,II,16-01-2025,University Medical Centre,Germany
+P100075,67,Female,Glioblastoma (GBM),III,30-11-2022,University Medical Centre,Germany
+P100076,57,Female,Astrocytoma,IV,28-02-2025,Central Oncology Institute,France
+P100077,51,Female,Meningioma,II,17-01-2025,Central Oncology Institute,Japan
+P100078,57,Female,Meningioma,III,28-11-2023,Central Oncology Institute,Japan
+P100079,28,Male,Glioblastoma (GBM),IV,15-02-2022,St. Mary's Hospital,France
+P100080,52,Other,Glioblastoma (GBM),III,01-01-2020,Central Oncology Institute,China
+P100081,60,Male,Astrocytoma,III,02-09-2023,Central Oncology Institute,Canada
+P100082,76,Female,Astrocytoma,II,27-08-2022,St. Mary's Hospital,USA
+P100083,48,Female,Astrocytoma,IV,17-11-2021,NeuroCare Center,Germany
+P100084,44,Other,Glioblastoma (GBM),IV,28-10-2020,NeuroCare Center,India
+P100085,48,Male,Metastasis,IV,22-04-2024,NeuroCare Center,Canada
+P100086,68,Female,Metastasis,III,11-01-2024,Regional Neuro Hospital,Canada
+P100087,60,Female,Glioblastoma (GBM),IV,12-01-2020,NeuroCare Center,Australia
+P100088,48,Male,Glioblastoma (GBM),IV,26-11-2022,Regional Neuro Hospital,India
+P100089,63,Other,Glioblastoma (GBM),IV,23-07-2022,St. Mary's Hospital,Canada
+P100090,57,Other,Astrocytoma,III,11-10-2021,Regional Neuro Hospital,France
+P100091,69,Other,Metastasis,III,31-01-2025,University Medical Centre,Canada
+P100092,46,Male,Meningioma,III,14-06-2021,St. Mary's Hospital,China
+P100093,51,Other,Astrocytoma,II,19-06-2022,NeuroCare Center,China
+P100094,50,Male,Glioblastoma (GBM),III,11-01-2023,NeuroCare Center,UK
+P100095,35,Male,Glioblastoma (GBM),IV,17-12-2023,St. Mary's Hospital,USA
+P100096,60,Female,Astrocytoma,III,01-05-2022,NeuroCare Center,Germany
+P100097,59,Female,Glioblastoma (GBM),IV,21-04-2025,NeuroCare Center,France
+P100098,56,Female,Astrocytoma,IV,03-09-2021,Regional Neuro Hospital,Australia
+P100099,52,Other,Meningioma,III,20-05-2023,St. Mary's Hospital,Canada
+P100100,36,Male,Glioblastoma (GBM),III,07-03-2022,Central Oncology Institute,Australia
+P100101,50,Other,Glioblastoma (GBM),III,18-09-2020,University Medical Centre,Japan
+P100102,51,Male,Metastasis,III,19-09-2023,NeuroCare Center,USA
+P100103,44,Other,Astrocytoma,IV,07-01-2021,NeuroCare Center,China
+P100104,53,Female,Glioblastoma (GBM),III,22-11-2021,Regional Neuro Hospital,China
+P100105,61,Female,Glioblastoma (GBM),I,09-02-2020,University Medical Centre,India
+P100106,82,Female,Glioblastoma (GBM),I,14-05-2025,NeuroCare Center,India
+P100107,58,Male,Glioblastoma (GBM),I,08-11-2020,St. Mary's Hospital,UK
+P100108,59,Female,Meningioma,III,22-03-2021,Regional Neuro Hospital,China
+P100109,54,Female,Glioblastoma (GBM),IV,11-03-2024,NeuroCare Center,UK
+P100110,29,Female,Glioblastoma (GBM),I,30-09-2021,University Medical Centre,Australia
+P100111,55,Female,Metastasis,II,27-04-2023,St. Mary's Hospital,USA
+P100112,56,Other,Pituitary,IV,14-05-2023,NeuroCare Center,France
+P100113,90,Male,Glioblastoma (GBM),III,28-01-2022,NeuroCare Center,Japan
+P100114,53,Other,Glioblastoma (GBM),IV,11-08-2024,Regional Neuro Hospital,USA
+P100115,60,Female,Metastasis,IV,24-08-2024,Regional Neuro Hospital,UK
+P100116,55,Female,Glioblastoma (GBM),III,25-08-2023,Central Oncology Institute,France
+P100117,39,Other,Pituitary,III,18-08-2024,University Medical Centre,China
+P100118,71,Female,Metastasis,IV,26-06-2020,Central Oncology Institute,Canada
+P100119,66,Male,Pituitary,III,30-09-2023,Regional Neuro Hospital,Brazil
+P100120,67,Male,Astrocytoma,III,25-09-2022,St. Mary's Hospital,Brazil
+P100121,43,Female,Glioblastoma (GBM),IV,07-12-2023,Central Oncology Institute,Japan
+P100122,75,Male,Astrocytoma,II,09-05-2021,Regional Neuro Hospital,Canada
+P100123,36,Other,Pituitary,IV,15-08-2023,Regional Neuro Hospital,Canada
+P100124,64,Male,Glioblastoma (GBM),II,17-11-2023,St. Mary's Hospital,China
+P100125,86,Other,Astrocytoma,III,23-12-2022,Central Oncology Institute,Australia
+P100126,42,Other,Astrocytoma,III,18-07-2022,Central Oncology Institute,China
+P100127,48,Female,Glioblastoma (GBM),IV,08-10-2021,NeuroCare Center,Japan
+P100128,57,Other,Glioblastoma (GBM),II,18-09-2022,Central Oncology Institute,France
+P100129,48,Other,Astrocytoma,IV,01-09-2024,St. Mary's Hospital,China
+P100130,34,Male,Glioblastoma (GBM),III,21-12-2023,University Medical Centre,UK
+P100131,56,Female,Glioblastoma (GBM),I,21-08-2021,St. Mary's Hospital,Canada
+P100132,41,Male,Metastasis,III,19-08-2022,Regional Neuro Hospital,Canada
+P100133,62,Female,Glioblastoma (GBM),I,11-04-2025,Regional Neuro Hospital,USA
+P100134,43,Male,Astrocytoma,I,13-07-2023,NeuroCare Center,UK
+P100135,77,Male,Pituitary,IV,23-06-2020,St. Mary's Hospital,USA
+P100136,45,Other,Pituitary,IV,07-06-2024,University Medical Centre,Germany
+P100137,51,Other,Glioblastoma (GBM),IV,31-08-2021,University Medical Centre,Australia
+P100138,67,Female,Astrocytoma,I,20-05-2025,NeuroCare Center,Germany
+P100139,38,Other,Glioblastoma (GBM),IV,17-11-2020,St. Mary's Hospital,UK
+P100140,59,Other,Glioblastoma (GBM),I,11-07-2022,University Medical Centre,Canada
+P100141,74,Female,Glioblastoma (GBM),II,02-08-2021,Regional Neuro Hospital,USA
+P100142,33,Other,Glioblastoma (GBM),II,08-06-2024,University Medical Centre,Germany
+P100143,58,Female,Glioblastoma (GBM),II,01-11-2020,Central Oncology Institute,UK
+P100144,59,Male,Glioblastoma (GBM),IV,03-05-2023,University Medical Centre,China
+P100145,66,Female,Glioblastoma (GBM),IV,04-12-2023,Regional Neuro Hospital,China
+P100146,38,Other,Astrocytoma,III,09-05-2023,NeuroCare Center,Australia
+P100147,37,Other,Glioblastoma (GBM),II,06-07-2020,St. Mary's Hospital,France
+P100148,63,Other,Metastasis,IV,08-10-2023,Central Oncology Institute,France
+P100149,60,Male,Pituitary,II,28-11-2022,Regional Neuro Hospital,China
+P100150,59,Male,Metastasis,III,25-07-2024,Regional Neuro Hospital,USA
+P100151,60,Female,Glioblastoma (GBM),III,04-10-2023,NeuroCare Center,UK
+P100152,46,Female,Astrocytoma,III,18-09-2023,Regional Neuro Hospital,Japan
+P100153,59,Male,Astrocytoma,III,24-10-2021,NeuroCare Center,Australia
+P100154,60,Other,Pituitary,I,15-11-2024,University Medical Centre,Canada
+P100155,45,Female,Glioblastoma (GBM),III,29-06-2023,Regional Neuro Hospital,Canada
+P100156,82,Male,Glioblastoma (GBM),III,14-03-2025,Central Oncology Institute,Canada
+P100157,62,Other,Astrocytoma,I,14-07-2023,University Medical Centre,Germany
+P100158,39,Other,Glioblastoma (GBM),III,05-02-2023,Regional Neuro Hospital,USA
+P100159,65,Male,Metastasis,IV,03-08-2022,NeuroCare Center,UK
+P100160,42,Female,Metastasis,II,15-12-2023,Central Oncology Institute,Australia
+P100161,67,Female,Metastasis,II,02-02-2023,St. Mary's Hospital,Australia
+P100162,72,Male,Metastasis,III,05-12-2024,St. Mary's Hospital,USA
+P100163,44,Female,Pituitary,IV,27-11-2021,University Medical Centre,China
+P100164,69,Male,Glioblastoma (GBM),II,17-04-2023,University Medical Centre,Canada
+P100165,61,Male,Astrocytoma,III,11-11-2021,University Medical Centre,Japan
+P100166,67,Female,Astrocytoma,III,21-01-2021,St. Mary's Hospital,France
+P100167,82,Female,Glioblastoma (GBM),IV,30-03-2020,Central Oncology Institute,Canada
+P100168,52,Other,Metastasis,III,21-09-2023,St. Mary's Hospital,Canada
+P100169,45,Male,Glioblastoma (GBM),IV,10-11-2021,NeuroCare Center,Canada
+P100170,43,Male,Astrocytoma,III,19-01-2024,St. Mary's Hospital,Australia
+P100171,44,Other,Metastasis,I,19-05-2024,Central Oncology Institute,Brazil
+P100172,54,Other,Meningioma,IV,10-10-2024,Central Oncology Institute,Japan
+P100173,60,Female,Metastasis,IV,22-12-2024,Regional Neuro Hospital,Japan
+P100174,59,Male,Meningioma,II,02-11-2023,Central Oncology Institute,Germany
+P100175,67,Other,Glioblastoma (GBM),IV,06-04-2024,NeuroCare Center,Canada
+P100176,56,Male,Meningioma,IV,04-04-2020,Central Oncology Institute,India
+P100177,76,Female,Glioblastoma (GBM),III,15-05-2021,University Medical Centre,Australia
+P100178,52,Other,Meningioma,II,24-12-2020,NeuroCare Center,France
+P100179,90,Female,Meningioma,II,12-02-2025,University Medical Centre,UK
+P100180,64,Male,Astrocytoma,II,06-06-2021,NeuroCare Center,Canada
+P100181,43,Female,Meningioma,II,23-06-2022,Central Oncology Institute,France
+P100182,41,Female,Meningioma,III,27-05-2021,Regional Neuro Hospital,China
+P100183,62,Male,Metastasis,IV,06-08-2020,St. Mary's Hospital,Australia
+P100184,52,Other,Glioblastoma (GBM),II,03-12-2023,Central Oncology Institute,India
+P100185,65,Other,Glioblastoma (GBM),I,06-11-2024,NeuroCare Center,France
+P100186,62,Other,Astrocytoma,IV,09-08-2021,St. Mary's Hospital,France
+P100187,54,Female,Glioblastoma (GBM),II,28-05-2021,St. Mary's Hospital,USA
+P100188,44,Other,Meningioma,III,21-06-2022,NeuroCare Center,France
+P100189,34,Female,Meningioma,I,27-08-2021,Central Oncology Institute,Australia
+P100190,49,Male,Glioblastoma (GBM),IV,29-11-2024,Central Oncology Institute,Japan
+P100191,67,Other,Metastasis,IV,10-06-2021,Regional Neuro Hospital,China
+P100192,58,Other,Metastasis,IV,17-08-2022,NeuroCare Center,UK
+P100193,38,Male,Metastasis,IV,24-03-2022,University Medical Centre,Brazil
+P100194,58,Male,Pituitary,I,03-01-2023,NeuroCare Center,Canada
+P100195,61,Female,Meningioma,IV,12-04-2023,Regional Neuro Hospital,Brazil
+P100196,43,Male,Meningioma,III,22-06-2023,University Medical Centre,Brazil
+P100197,58,Other,Glioblastoma (GBM),I,14-08-2024,Regional Neuro Hospital,China
+P100198,56,Other,Astrocytoma,II,21-04-2025,NeuroCare Center,China
+P100199,39,Female,Glioblastoma (GBM),II,05-01-2023,St. Mary's Hospital,Australia
+P100200,61,Female,Glioblastoma (GBM),IV,27-11-2023,University Medical Centre,Australia
+P100201,63,Other,Meningioma,II,29-04-2022,NeuroCare Center,Canada
+P100202,71,Other,Astrocytoma,IV,08-03-2020,Central Oncology Institute,Germany
+P100203,70,Female,Astrocytoma,II,12-01-2022,NeuroCare Center,Brazil
+P100204,36,Other,Metastasis,IV,04-05-2020,Regional Neuro Hospital,China
+P100205,42,Male,Metastasis,IV,14-08-2024,Regional Neuro Hospital,USA
+P100206,63,Other,Glioblastoma (GBM),IV,11-06-2025,NeuroCare Center,India
+P100207,63,Female,Glioblastoma (GBM),II,02-03-2023,St. Mary's Hospital,USA
+P100208,63,Other,Glioblastoma (GBM),II,16-11-2024,St. Mary's Hospital,Brazil
+P100209,90,Male,Pituitary,III,21-07-2021,St. Mary's Hospital,UK
+P100210,63,Other,Glioblastoma (GBM),II,15-09-2023,NeuroCare Center,UK
+P100211,71,Male,Glioblastoma (GBM),IV,20-04-2023,Central Oncology Institute,India
+P100212,69,Male,Glioblastoma (GBM),II,12-05-2022,University Medical Centre,USA
+P100213,65,Other,Glioblastoma (GBM),III,11-01-2022,University Medical Centre,France
+P100214,51,Male,Astrocytoma,II,13-06-2023,NeuroCare Center,Japan
+P100215,66,Female,Astrocytoma,IV,04-05-2020,Regional Neuro Hospital,Australia
+P100216,45,Female,Meningioma,III,06-02-2025,Regional Neuro Hospital,USA
+P100217,52,Male,Glioblastoma (GBM),II,15-09-2020,Central Oncology Institute,France
+P100218,49,Other,Astrocytoma,IV,19-02-2022,University Medical Centre,Japan
+P100219,57,Female,Astrocytoma,IV,22-07-2020,NeuroCare Center,Japan
+P100220,88,Other,Metastasis,III,23-12-2024,St. Mary's Hospital,Australia
+P100221,29,Female,Pituitary,III,03-02-2024,NeuroCare Center,Brazil
+P100222,65,Female,Glioblastoma (GBM),II,06-05-2025,St. Mary's Hospital,Canada
+P100223,33,Male,Glioblastoma (GBM),I,03-06-2022,NeuroCare Center,Brazil
+P100224,49,Male,Astrocytoma,III,24-02-2023,University Medical Centre,Brazil
+P100225,71,Other,Glioblastoma (GBM),III,24-09-2023,Regional Neuro Hospital,India
+P100226,56,Female,Meningioma,III,29-03-2023,University Medical Centre,Germany
+P100227,40,Male,Meningioma,II,09-08-2020,Central Oncology Institute,Japan
+P100228,45,Female,Glioblastoma (GBM),II,08-04-2021,Regional Neuro Hospital,Japan
+P100229,65,Other,Meningioma,IV,23-02-2020,University Medical Centre,China
+P100230,45,Male,Glioblastoma (GBM),IV,24-09-2021,Central Oncology Institute,Brazil
+P100231,59,Male,Glioblastoma (GBM),II,08-09-2023,Regional Neuro Hospital,USA
+P100232,56,Male,Meningioma,IV,06-07-2020,University Medical Centre,Germany
+P100233,46,Female,Astrocytoma,III,27-01-2022,Central Oncology Institute,Brazil
+P100234,86,Other,Astrocytoma,IV,14-11-2020,St. Mary's Hospital,France
+P100235,64,Male,Meningioma,II,17-09-2023,Regional Neuro Hospital,Canada
+P100236,27,Other,Astrocytoma,II,26-03-2024,University Medical Centre,USA
+P100237,58,Female,Astrocytoma,II,21-10-2023,University Medical Centre,Canada
+P100238,46,Other,Meningioma,I,20-03-2022,University Medical Centre,India
+P100239,67,Male,Glioblastoma (GBM),IV,20-04-2024,St. Mary's Hospital,China
+P100240,44,Female,Glioblastoma (GBM),I,09-03-2024,Regional Neuro Hospital,UK
+P100241,54,Male,Glioblastoma (GBM),IV,21-10-2022,University Medical Centre,Brazil
+P100242,63,Male,Glioblastoma (GBM),IV,12-06-2022,NeuroCare Center,Canada
+P100243,68,Male,Metastasis,III,20-03-2023,Regional Neuro Hospital,Australia
+P100244,39,Female,Glioblastoma (GBM),I,27-10-2021,St. Mary's Hospital,France
+P100245,51,Female,Pituitary,IV,29-06-2020,Regional Neuro Hospital,USA
+P100246,49,Male,Astrocytoma,III,10-06-2020,Regional Neuro Hospital,China
+P100247,46,Other,Glioblastoma (GBM),III,10-12-2020,NeuroCare Center,Japan
+P100248,80,Other,Glioblastoma (GBM),III,29-01-2025,Central Oncology Institute,Brazil
+P100249,61,Other,Metastasis,IV,29-10-2020,St. Mary's Hospital,USA
+P100250,38,Male,Glioblastoma (GBM),II,09-11-2020,NeuroCare Center,UK
+P100251,68,Other,Astrocytoma,IV,05-04-2024,University Medical Centre,Canada
+P100252,85,Other,Metastasis,III,25-07-2023,University Medical Centre,Brazil
+P100253,70,Other,Glioblastoma (GBM),III,18-08-2022,Regional Neuro Hospital,China
+P100254,34,Female,Astrocytoma,III,31-05-2020,Central Oncology Institute,Canada
+P100255,49,Female,Glioblastoma (GBM),III,10-08-2021,NeuroCare Center,USA
+P100256,73,Other,Astrocytoma,III,03-04-2023,University Medical Centre,India
+P100257,46,Female,Metastasis,III,20-01-2021,Central Oncology Institute,France
+P100258,62,Female,Astrocytoma,IV,11-07-2022,NeuroCare Center,Brazil
+P100259,66,Other,Glioblastoma (GBM),IV,21-03-2020,St. Mary's Hospital,Canada
+P100260,43,Female,Astrocytoma,IV,15-01-2022,Central Oncology Institute,China
+P100261,55,Female,Astrocytoma,III,09-05-2023,NeuroCare Center,Brazil
+P100262,18,Male,Glioblastoma (GBM),III,02-03-2022,Central Oncology Institute,China
+P100263,41,Other,Metastasis,IV,19-05-2023,St. Mary's Hospital,Brazil
+P100264,52,Male,Astrocytoma,II,17-12-2021,Central Oncology Institute,Australia
+P100265,38,Male,Astrocytoma,IV,26-09-2021,University Medical Centre,Australia
+P100266,78,Other,Pituitary,IV,04-10-2023,University Medical Centre,USA
+P100267,35,Other,Meningioma,III,07-02-2020,Central Oncology Institute,China
+P100268,49,Male,Metastasis,III,18-04-2024,Regional Neuro Hospital,Germany
+P100269,57,Male,Metastasis,II,28-08-2021,NeuroCare Center,Japan
+P100270,76,Other,Pituitary,IV,18-03-2020,Central Oncology Institute,France
+P100271,35,Male,Astrocytoma,II,05-01-2021,University Medical Centre,UK
+P100272,72,Other,Astrocytoma,III,17-10-2023,St. Mary's Hospital,Canada
+P100273,56,Other,Glioblastoma (GBM),IV,08-07-2022,St. Mary's Hospital,Japan
+P100274,42,Male,Glioblastoma (GBM),IV,18-08-2022,St. Mary's Hospital,Brazil
+P100275,62,Other,Metastasis,IV,03-08-2022,Central Oncology Institute,Australia
+P100276,58,Other,Astrocytoma,IV,30-07-2024,St. Mary's Hospital,France
+P100277,47,Male,Metastasis,I,11-09-2022,Central Oncology Institute,Japan
+P100278,56,Male,Meningioma,III,12-09-2020,Central Oncology Institute,USA
+P100279,50,Male,Glioblastoma (GBM),IV,28-10-2020,Regional Neuro Hospital,USA
+P100280,57,Male,Pituitary,IV,20-03-2025,NeuroCare Center,Australia
+P100281,65,Male,Glioblastoma (GBM),III,01-03-2022,NeuroCare Center,Brazil
+P100282,78,Male,Glioblastoma (GBM),IV,14-09-2024,Central Oncology Institute,UK
+P100283,38,Male,Glioblastoma (GBM),IV,25-08-2022,St. Mary's Hospital,Canada
+P100284,85,Female,Meningioma,IV,08-02-2020,Central Oncology Institute,Germany
+P100285,28,Male,Astrocytoma,IV,16-12-2022,Regional Neuro Hospital,USA
+P100286,53,Female,Glioblastoma (GBM),II,03-05-2021,Regional Neuro Hospital,France
+P100287,64,Female,Glioblastoma (GBM),IV,20-10-2022,University Medical Centre,Japan
+P100288,59,Male,Meningioma,III,11-01-2024,St. Mary's Hospital,China
+P100289,47,Female,Glioblastoma (GBM),III,14-03-2023,Regional Neuro Hospital,UK
+P100290,53,Other,Meningioma,III,08-01-2022,NeuroCare Center,Japan
+P100291,49,Other,Astrocytoma,IV,08-02-2023,NeuroCare Center,Australia
+P100292,47,Female,Glioblastoma (GBM),III,03-02-2022,Central Oncology Institute,India
+P100293,67,Female,Pituitary,III,10-02-2024,NeuroCare Center,France
+P100294,60,Other,Pituitary,II,22-12-2021,University Medical Centre,Brazil
+P100295,46,Other,Glioblastoma (GBM),IV,09-08-2022,Regional Neuro Hospital,UK
+P100296,68,Male,Glioblastoma (GBM),IV,26-07-2022,NeuroCare Center,China
+P100297,60,Male,Glioblastoma (GBM),II,26-03-2020,Central Oncology Institute,China
+P100298,67,Other,Glioblastoma (GBM),IV,27-08-2022,Central Oncology Institute,India
+P100299,64,Other,Glioblastoma (GBM),III,18-05-2024,NeuroCare Center,Brazil
+P100300,44,Female,Glioblastoma (GBM),III,26-12-2024,Regional Neuro Hospital,Canada
+P100301,48,Female,Glioblastoma (GBM),II,18-11-2023,Regional Neuro Hospital,Brazil
+P100302,66,Other,Glioblastoma (GBM),I,19-05-2022,NeuroCare Center,Australia
+P100303,64,Other,Metastasis,II,24-08-2021,Central Oncology Institute,USA
+P100304,55,Male,Glioblastoma (GBM),II,02-07-2022,University Medical Centre,Australia
+P100305,57,Male,Meningioma,III,27-03-2020,Central Oncology Institute,France
+P100306,73,Female,Glioblastoma (GBM),IV,25-04-2025,NeuroCare Center,USA
+P100307,47,Other,Meningioma,III,28-06-2024,St. Mary's Hospital,India
+P100308,63,Male,Pituitary,IV,16-06-2022,NeuroCare Center,UK
+P100309,53,Male,Glioblastoma (GBM),IV,11-01-2022,Regional Neuro Hospital,France
+P100310,52,Male,Meningioma,IV,27-04-2025,Central Oncology Institute,Brazil
+P100311,71,Female,Pituitary,III,20-12-2022,Central Oncology Institute,Australia
+P100312,67,Female,Meningioma,II,20-08-2020,NeuroCare Center,UK
+P100313,67,Female,Astrocytoma,IV,29-08-2020,Central Oncology Institute,China
+P100314,74,Other,Astrocytoma,IV,07-08-2021,Regional Neuro Hospital,Germany
+P100315,56,Male,Glioblastoma (GBM),I,19-12-2020,Regional Neuro Hospital,USA
+P100316,65,Other,Metastasis,IV,29-09-2023,Central Oncology Institute,USA
+P100317,51,Other,Astrocytoma,IV,09-10-2024,St. Mary's Hospital,UK
+P100318,60,Female,Astrocytoma,II,15-02-2021,St. Mary's Hospital,Germany
+P100319,54,Female,Glioblastoma (GBM),III,25-01-2022,Regional Neuro Hospital,Japan
+P100320,57,Male,Meningioma,I,25-09-2021,Regional Neuro Hospital,Canada
+P100321,64,Other,Astrocytoma,III,23-03-2023,NeuroCare Center,UK
+P100322,44,Female,Meningioma,III,24-10-2023,University Medical Centre,Brazil
+P100323,85,Male,Metastasis,IV,03-08-2023,University Medical Centre,UK
+P100324,41,Male,Astrocytoma,IV,23-04-2020,NeuroCare Center,Japan
+P100325,39,Male,Glioblastoma (GBM),II,29-03-2025,St. Mary's Hospital,Brazil
+P100326,72,Other,Metastasis,IV,28-05-2021,St. Mary's Hospital,Japan
+P100327,67,Female,Glioblastoma (GBM),III,28-12-2022,NeuroCare Center,Japan
+P100328,64,Other,Glioblastoma (GBM),IV,11-11-2020,St. Mary's Hospital,France
+P100329,64,Other,Metastasis,III,07-03-2025,University Medical Centre,India
+P100330,55,Male,Glioblastoma (GBM),IV,28-04-2024,University Medical Centre,China
+P100331,43,Other,Glioblastoma (GBM),III,19-06-2023,NeuroCare Center,Canada
+P100332,57,Other,Astrocytoma,IV,10-09-2021,Regional Neuro Hospital,Germany
+P100333,46,Other,Astrocytoma,III,11-11-2023,NeuroCare Center,UK
+P100334,69,Female,Astrocytoma,III,27-11-2021,University Medical Centre,UK
+P100335,53,Female,Metastasis,III,28-10-2024,Central Oncology Institute,Australia
+P100336,44,Male,Pituitary,III,05-08-2020,Central Oncology Institute,Germany
+P100337,51,Female,Glioblastoma (GBM),III,15-10-2020,NeuroCare Center,India
+P100338,61,Female,Metastasis,IV,06-05-2022,St. Mary's Hospital,UK
+P100339,48,Female,Metastasis,IV,23-01-2021,St. Mary's Hospital,Canada
+P100340,44,Other,Astrocytoma,IV,15-10-2022,NeuroCare Center,USA
+P100341,59,Female,Astrocytoma,IV,16-03-2021,University Medical Centre,Brazil
+P100342,59,Male,Glioblastoma (GBM),III,12-12-2024,Regional Neuro Hospital,China
+P100343,48,Other,Glioblastoma (GBM),II,01-10-2020,Central Oncology Institute,Brazil
+P100344,49,Female,Glioblastoma (GBM),III,13-03-2023,University Medical Centre,Germany
+P100345,59,Female,Astrocytoma,I,29-10-2022,Regional Neuro Hospital,Japan
+P100346,35,Female,Pituitary,IV,05-06-2023,NeuroCare Center,UK
+P100347,36,Male,Glioblastoma (GBM),IV,25-11-2021,University Medical Centre,Brazil
+P100348,45,Male,Glioblastoma (GBM),III,21-10-2022,NeuroCare Center,India
+P100349,53,Male,Glioblastoma (GBM),III,28-08-2022,University Medical Centre,Canada
+P100350,60,Male,Meningioma,III,02-11-2021,University Medical Centre,Brazil
+P100351,76,Male,Glioblastoma (GBM),IV,21-09-2024,Central Oncology Institute,France
+P100352,68,Female,Astrocytoma,III,30-09-2022,University Medical Centre,China
+P100353,53,Female,Pituitary,III,11-10-2023,NeuroCare Center,Australia
+P100354,55,Other,Glioblastoma (GBM),IV,21-11-2024,NeuroCare Center,France
+P100355,41,Female,Glioblastoma (GBM),IV,13-06-2025,University Medical Centre,France
+P100356,55,Male,Meningioma,III,15-12-2020,University Medical Centre,France
+P100357,51,Female,Glioblastoma (GBM),IV,05-03-2020,University Medical Centre,USA
+P100358,60,Male,Glioblastoma (GBM),III,06-11-2020,Regional Neuro Hospital,Germany
+P100359,44,Female,Astrocytoma,IV,23-08-2022,NeuroCare Center,UK
+P100360,63,Other,Glioblastoma (GBM),III,18-09-2023,Regional Neuro Hospital,Japan
+P100361,77,Female,Glioblastoma (GBM),II,11-02-2025,University Medical Centre,Brazil
+P100362,54,Other,Glioblastoma (GBM),IV,16-01-2024,Central Oncology Institute,France
+P100363,61,Female,Glioblastoma (GBM),II,16-02-2023,Central Oncology Institute,Germany
+P100364,65,Female,Pituitary,IV,14-11-2023,Regional Neuro Hospital,Brazil
+P100365,50,Female,Glioblastoma (GBM),IV,16-06-2024,Central Oncology Institute,China
+P100366,59,Male,Astrocytoma,III,08-01-2025,Regional Neuro Hospital,Brazil
+P100367,56,Male,Glioblastoma (GBM),II,02-01-2024,NeuroCare Center,Brazil
+P100368,57,Female,Meningioma,IV,14-03-2021,St. Mary's Hospital,Japan
+P100369,45,Female,Metastasis,IV,08-10-2020,NeuroCare Center,France
+P100370,56,Other,Astrocytoma,II,03-10-2023,University Medical Centre,Germany
+P100371,62,Other,Glioblastoma (GBM),II,07-11-2021,Regional Neuro Hospital,USA
+P100372,76,Other,Pituitary,I,01-02-2023,St. Mary's Hospital,Australia
+P100373,69,Other,Metastasis,IV,04-09-2022,St. Mary's Hospital,China
+P100374,86,Female,Glioblastoma (GBM),I,23-04-2024,NeuroCare Center,France
+P100375,45,Male,Astrocytoma,IV,02-04-2025,NeuroCare Center,UK
+P100376,68,Female,Metastasis,II,26-02-2025,NeuroCare Center,Australia
+P100377,58,Female,Glioblastoma (GBM),IV,21-11-2024,Central Oncology Institute,India
+P100378,86,Male,Glioblastoma (GBM),IV,16-03-2025,Central Oncology Institute,China
+P100379,44,Female,Metastasis,III,08-10-2022,St. Mary's Hospital,Japan
+P100380,44,Female,Glioblastoma (GBM),IV,08-11-2021,St. Mary's Hospital,Canada
+P100381,47,Other,Glioblastoma (GBM),II,17-02-2024,Central Oncology Institute,China
+P100382,26,Other,Meningioma,II,05-06-2023,Regional Neuro Hospital,Australia
+P100383,48,Other,Glioblastoma (GBM),III,14-07-2020,St. Mary's Hospital,UK
+P100384,45,Female,Glioblastoma (GBM),II,18-06-2021,Regional Neuro Hospital,Germany
+P100385,58,Female,Pituitary,IV,10-09-2021,University Medical Centre,France
+P100386,60,Male,Glioblastoma (GBM),III,28-04-2021,NeuroCare Center,USA
+P100387,82,Female,Glioblastoma (GBM),III,26-10-2022,Central Oncology Institute,USA
+P100388,69,Other,Metastasis,II,12-06-2023,St. Mary's Hospital,Germany
+P100389,47,Male,Astrocytoma,III,25-05-2023,Central Oncology Institute,Australia
+P100390,43,Other,Astrocytoma,III,05-01-2023,St. Mary's Hospital,Germany
+P100391,62,Other,Pituitary,IV,16-06-2020,University Medical Centre,Canada
+P100392,37,Other,Meningioma,I,01-03-2023,NeuroCare Center,India
+P100393,81,Other,Metastasis,II,04-01-2023,St. Mary's Hospital,UK
+P100394,72,Female,Metastasis,III,25-10-2023,St. Mary's Hospital,France
+P100395,49,Female,Glioblastoma (GBM),III,14-07-2024,NeuroCare Center,Canada
+P100396,32,Male,Astrocytoma,III,28-04-2020,University Medical Centre,Canada
+P100397,74,Other,Pituitary,IV,21-03-2022,Central Oncology Institute,India
+P100398,54,Other,Glioblastoma (GBM),I,17-05-2022,Central Oncology Institute,USA
+P100399,73,Other,Metastasis,IV,21-05-2020,Regional Neuro Hospital,India
+P100400,33,Female,Astrocytoma,IV,17-04-2024,Regional Neuro Hospital,Brazil
+P100401,47,Female,Astrocytoma,IV,12-02-2022,Regional Neuro Hospital,USA
+P100402,56,Other,Metastasis,IV,29-09-2020,Central Oncology Institute,USA
+P100403,56,Male,Metastasis,III,17-09-2020,St. Mary's Hospital,India
+P100404,49,Male,Metastasis,III,12-01-2024,University Medical Centre,Australia
+P100405,64,Other,Glioblastoma (GBM),II,01-08-2022,Central Oncology Institute,UK
+P100406,41,Female,Glioblastoma (GBM),IV,16-04-2024,NeuroCare Center,India
+P100407,54,Other,Astrocytoma,IV,14-12-2024,NeuroCare Center,Germany
+P100408,57,Male,Glioblastoma (GBM),III,03-07-2022,University Medical Centre,India
+P100409,63,Male,Meningioma,III,24-04-2021,University Medical Centre,Germany
+P100410,65,Male,Glioblastoma (GBM),IV,24-04-2021,University Medical Centre,Brazil
+P100411,40,Other,Astrocytoma,IV,18-10-2021,St. Mary's Hospital,China
+P100412,34,Male,Metastasis,III,26-04-2022,Central Oncology Institute,China
+P100413,73,Male,Astrocytoma,III,14-02-2024,St. Mary's Hospital,Australia
+P100414,60,Other,Astrocytoma,IV,12-04-2025,Regional Neuro Hospital,Japan
+P100415,45,Female,Meningioma,III,06-09-2021,Regional Neuro Hospital,UK
+P100416,77,Other,Astrocytoma,IV,07-09-2021,St. Mary's Hospital,Canada
+P100417,57,Male,Astrocytoma,IV,15-02-2023,University Medical Centre,UK
+P100418,72,Female,Glioblastoma (GBM),II,17-08-2023,NeuroCare Center,Canada
+P100419,56,Female,Glioblastoma (GBM),IV,25-01-2021,NeuroCare Center,China
+P100420,84,Female,Meningioma,IV,24-11-2024,NeuroCare Center,Germany
+P100421,80,Other,Meningioma,III,08-09-2022,St. Mary's Hospital,Brazil
+P100422,52,Female,Metastasis,I,03-04-2025,St. Mary's Hospital,USA
+P100423,69,Other,Metastasis,III,11-05-2021,University Medical Centre,Germany
+P100424,65,Female,Metastasis,III,07-05-2024,Central Oncology Institute,Australia
+P100425,75,Female,Astrocytoma,III,19-06-2021,Central Oncology Institute,Japan
+P100426,42,Female,Astrocytoma,IV,19-01-2024,Regional Neuro Hospital,Brazil
+P100427,65,Male,Glioblastoma (GBM),III,26-02-2023,St. Mary's Hospital,UK
+P100428,70,Male,Glioblastoma (GBM),IV,01-04-2023,Regional Neuro Hospital,China
+P100429,31,Male,Glioblastoma (GBM),II,12-03-2023,St. Mary's Hospital,Canada
+P100430,39,Other,Meningioma,IV,11-06-2021,Regional Neuro Hospital,Canada
+P100431,27,Female,Glioblastoma (GBM),IV,12-12-2020,St. Mary's Hospital,Japan
+P100432,52,Female,Glioblastoma (GBM),IV,07-08-2023,NeuroCare Center,Japan
+P100433,66,Male,Pituitary,I,02-08-2024,NeuroCare Center,India
+P100434,77,Female,Glioblastoma (GBM),IV,19-05-2020,St. Mary's Hospital,India
+P100435,57,Male,Astrocytoma,III,19-06-2023,University Medical Centre,Canada
+P100436,78,Other,Astrocytoma,I,03-02-2023,Regional Neuro Hospital,India
+P100437,36,Male,Astrocytoma,II,10-08-2021,NeuroCare Center,Japan
+P100438,32,Other,Meningioma,IV,06-02-2025,St. Mary's Hospital,USA
+P100439,55,Male,Astrocytoma,II,23-06-2023,University Medical Centre,China
+P100440,61,Female,Glioblastoma (GBM),III,03-02-2022,Regional Neuro Hospital,Canada
+P100441,55,Other,Glioblastoma (GBM),IV,06-09-2021,NeuroCare Center,India
+P100442,27,Male,Astrocytoma,III,01-09-2022,NeuroCare Center,India
+P100443,54,Other,Glioblastoma (GBM),III,07-06-2022,Central Oncology Institute,France
+P100444,37,Male,Metastasis,IV,15-04-2021,St. Mary's Hospital,France
+P100445,65,Female,Glioblastoma (GBM),IV,02-11-2023,Central Oncology Institute,Japan
+P100446,61,Other,Meningioma,II,07-10-2024,Central Oncology Institute,India
+P100447,42,Male,Astrocytoma,IV,30-12-2023,Regional Neuro Hospital,USA
+P100448,48,Female,Glioblastoma (GBM),II,05-09-2024,Regional Neuro Hospital,Japan
+P100449,41,Female,Glioblastoma (GBM),IV,06-06-2024,NeuroCare Center,Japan
+P100450,55,Other,Metastasis,I,14-06-2022,St. Mary's Hospital,USA
+P100451,69,Female,Meningioma,IV,04-05-2023,Regional Neuro Hospital,Brazil
+P100452,42,Male,Meningioma,IV,11-07-2022,Regional Neuro Hospital,Germany
+P100453,63,Female,Astrocytoma,III,15-01-2021,University Medical Centre,Australia
+P100454,48,Male,Pituitary,II,19-05-2021,NeuroCare Center,USA
+P100455,44,Female,Glioblastoma (GBM),IV,22-07-2023,St. Mary's Hospital,Australia
+P100456,54,Female,Glioblastoma (GBM),I,15-04-2025,Central Oncology Institute,Canada
+P100457,41,Female,Pituitary,II,27-06-2020,St. Mary's Hospital,Australia
+P100458,48,Female,Astrocytoma,III,30-07-2020,NeuroCare Center,USA
+P100459,39,Female,Astrocytoma,III,25-05-2024,Central Oncology Institute,Australia
+P100460,83,Male,Glioblastoma (GBM),III,22-06-2020,University Medical Centre,Germany
+P100461,56,Other,Astrocytoma,IV,13-12-2020,St. Mary's Hospital,China
+P100462,46,Female,Glioblastoma (GBM),II,08-12-2020,Regional Neuro Hospital,China
+P100463,58,Female,Glioblastoma (GBM),IV,09-01-2022,Central Oncology Institute,Germany
+P100464,54,Other,Meningioma,III,04-02-2021,Regional Neuro Hospital,USA
+P100465,52,Male,Glioblastoma (GBM),IV,11-11-2021,University Medical Centre,Australia
+P100466,64,Female,Astrocytoma,III,13-08-2024,University Medical Centre,UK
+P100467,66,Female,Glioblastoma (GBM),IV,15-02-2021,Regional Neuro Hospital,Brazil
+P100468,48,Male,Metastasis,IV,19-08-2021,Regional Neuro Hospital,France
+P100469,47,Male,Glioblastoma (GBM),II,28-05-2024,Regional Neuro Hospital,Brazil
+P100470,52,Male,Metastasis,II,22-01-2023,St. Mary's Hospital,Japan
+P100471,23,Male,Metastasis,III,21-12-2023,St. Mary's Hospital,Canada
+P100472,34,Female,Pituitary,I,02-10-2024,Regional Neuro Hospital,Canada
+P100473,75,Male,Meningioma,II,10-09-2023,St. Mary's Hospital,Australia
+P100474,79,Female,Glioblastoma (GBM),IV,08-09-2022,University Medical Centre,Australia
+P100475,52,Other,Astrocytoma,IV,17-11-2023,Regional Neuro Hospital,Japan
+P100476,64,Male,Pituitary,III,07-01-2025,University Medical Centre,France
+P100477,60,Other,Metastasis,II,23-05-2021,Central Oncology Institute,UK
+P100478,90,Other,Meningioma,III,14-08-2023,Regional Neuro Hospital,Brazil
+P100479,71,Female,Glioblastoma (GBM),I,30-03-2021,University Medical Centre,Japan
+P100480,54,Other,Astrocytoma,III,01-07-2022,Central Oncology Institute,Australia
+P100481,42,Female,Pituitary,III,21-10-2022,St. Mary's Hospital,Brazil
+P100482,33,Male,Astrocytoma,II,28-02-2025,NeuroCare Center,USA
+P100483,58,Other,Glioblastoma (GBM),III,21-07-2022,St. Mary's Hospital,Japan
+P100484,45,Female,Glioblastoma (GBM),I,18-01-2024,Regional Neuro Hospital,Brazil
+P100485,36,Male,Glioblastoma (GBM),IV,23-08-2020,NeuroCare Center,Brazil
+P100486,46,Other,Glioblastoma (GBM),IV,19-03-2025,St. Mary's Hospital,Japan
+P100487,40,Male,Astrocytoma,III,23-05-2022,Regional Neuro Hospital,Germany
+P100488,79,Female,Meningioma,II,08-09-2023,Regional Neuro Hospital,Australia
+P100489,68,Male,Meningioma,IV,09-07-2022,University Medical Centre,Australia
+P100490,55,Female,Glioblastoma (GBM),II,24-07-2021,NeuroCare Center,France
+P100491,76,Male,Pituitary,III,19-01-2022,Central Oncology Institute,Germany
+P100492,57,Female,Glioblastoma (GBM),IV,29-09-2022,University Medical Centre,Brazil
+P100493,43,Other,Glioblastoma (GBM),III,21-08-2020,Central Oncology Institute,Brazil
+P100494,77,Female,Meningioma,IV,16-12-2023,Central Oncology Institute,France
+P100495,63,Other,Glioblastoma (GBM),II,29-08-2020,St. Mary's Hospital,China
+P100496,41,Male,Glioblastoma (GBM),IV,12-11-2022,Regional Neuro Hospital,Australia
+P100497,53,Other,Glioblastoma (GBM),III,15-01-2021,Regional Neuro Hospital,Japan
+P100498,43,Other,Metastasis,IV,20-12-2020,University Medical Centre,UK
+P100499,36,Female,Glioblastoma (GBM),II,20-09-2024,Regional Neuro Hospital,France
+P100500,68,Male,Metastasis,IV,19-09-2022,St. Mary's Hospital,Germany
+P100501,82,Female,Metastasis,III,10-10-2022,Regional Neuro Hospital,Canada
+P100502,36,Female,Meningioma,III,08-12-2020,NeuroCare Center,France
+P100503,63,Male,Pituitary,II,07-03-2020,Central Oncology Institute,Germany
+P100504,46,Other,Glioblastoma (GBM),IV,04-03-2023,Regional Neuro Hospital,Japan
+P100505,49,Other,Glioblastoma (GBM),II,06-05-2024,University Medical Centre,Brazil
+P100506,47,Other,Pituitary,I,12-01-2024,Regional Neuro Hospital,Japan
+P100507,43,Male,Metastasis,II,26-08-2024,St. Mary's Hospital,China
+P100508,56,Male,Astrocytoma,III,30-07-2024,NeuroCare Center,Canada
+P100509,44,Male,Pituitary,II,18-07-2024,University Medical Centre,Brazil
+P100510,59,Other,Meningioma,III,15-06-2023,St. Mary's Hospital,Germany
+P100511,55,Male,Pituitary,III,26-12-2022,Central Oncology Institute,France
+P100512,52,Other,Glioblastoma (GBM),IV,22-08-2021,Central Oncology Institute,France
+P100513,43,Female,Metastasis,III,17-01-2025,NeuroCare Center,UK
+P100514,47,Female,Metastasis,IV,10-11-2024,St. Mary's Hospital,UK
+P100515,66,Male,Glioblastoma (GBM),III,21-05-2021,Regional Neuro Hospital,Canada
+P100516,63,Male,Astrocytoma,II,28-04-2022,Regional Neuro Hospital,Canada
+P100517,42,Male,Meningioma,IV,09-07-2020,Regional Neuro Hospital,Japan
+P100518,57,Other,Glioblastoma (GBM),IV,25-01-2022,Regional Neuro Hospital,Canada
+P100519,66,Female,Astrocytoma,IV,30-09-2024,NeuroCare Center,Canada
+P100520,32,Other,Meningioma,III,09-05-2020,University Medical Centre,Australia
+P100521,63,Male,Metastasis,IV,10-10-2022,Central Oncology Institute,Brazil
+P100522,46,Female,Glioblastoma (GBM),III,05-03-2023,Regional Neuro Hospital,Brazil
+P100523,63,Other,Pituitary,I,06-07-2023,Regional Neuro Hospital,India
+P100524,45,Male,Metastasis,II,23-07-2022,NeuroCare Center,Australia
+P100525,30,Male,Metastasis,IV,11-12-2024,Central Oncology Institute,UK
+P100526,33,Female,Glioblastoma (GBM),III,17-06-2020,Central Oncology Institute,UK
+P100527,56,Male,Glioblastoma (GBM),III,03-12-2023,St. Mary's Hospital,Australia
+P100528,59,Other,Glioblastoma (GBM),I,13-03-2021,Regional Neuro Hospital,USA
+P100529,43,Male,Astrocytoma,III,30-06-2022,NeuroCare Center,India
+P100530,64,Other,Glioblastoma (GBM),II,27-10-2024,Regional Neuro Hospital,UK
+P100531,32,Female,Glioblastoma (GBM),III,05-02-2024,NeuroCare Center,USA
+P100532,55,Female,Glioblastoma (GBM),II,22-02-2022,St. Mary's Hospital,UK
+P100533,39,Male,Astrocytoma,I,24-08-2023,St. Mary's Hospital,Canada
+P100534,46,Female,Meningioma,IV,06-11-2020,Regional Neuro Hospital,France
+P100535,56,Other,Astrocytoma,II,10-01-2025,NeuroCare Center,UK
+P100536,43,Male,Astrocytoma,III,26-05-2025,Regional Neuro Hospital,Brazil
+P100537,50,Male,Glioblastoma (GBM),IV,23-05-2021,University Medical Centre,France
+P100538,70,Other,Meningioma,II,11-04-2025,NeuroCare Center,China
+P100539,47,Male,Astrocytoma,III,11-03-2024,Regional Neuro Hospital,China
+P100540,67,Other,Glioblastoma (GBM),IV,09-05-2025,St. Mary's Hospital,Canada
+P100541,40,Female,Glioblastoma (GBM),III,01-05-2023,NeuroCare Center,Japan
+P100542,63,Male,Metastasis,IV,27-09-2020,Regional Neuro Hospital,France
+P100543,76,Female,Glioblastoma (GBM),IV,11-04-2024,Regional Neuro Hospital,USA
+P100544,21,Male,Astrocytoma,I,17-03-2021,NeuroCare Center,India
+P100545,44,Female,Astrocytoma,IV,23-10-2022,Regional Neuro Hospital,Australia
+P100546,64,Other,Astrocytoma,IV,06-01-2023,University Medical Centre,UK
+P100547,53,Female,Glioblastoma (GBM),I,01-03-2025,St. Mary's Hospital,UK
+P100548,61,Other,Glioblastoma (GBM),III,12-04-2024,NeuroCare Center,China
+P100549,47,Other,Astrocytoma,IV,03-05-2021,NeuroCare Center,Germany
+P100550,57,Male,Metastasis,II,07-06-2023,University Medical Centre,India
+P100551,53,Female,Meningioma,IV,25-12-2020,NeuroCare Center,India
+P100552,72,Other,Glioblastoma (GBM),I,13-10-2022,Central Oncology Institute,Japan
+P100553,59,Other,Pituitary,IV,07-12-2020,Central Oncology Institute,UK
+P100554,60,Other,Pituitary,II,20-12-2024,NeuroCare Center,India
+P100555,50,Female,Pituitary,II,10-05-2020,Central Oncology Institute,France
+P100556,49,Other,Glioblastoma (GBM),III,07-01-2022,NeuroCare Center,Canada
+P100557,49,Other,Glioblastoma (GBM),II,02-05-2024,NeuroCare Center,France
+P100558,61,Other,Meningioma,II,08-11-2022,NeuroCare Center,India
+P100559,50,Male,Glioblastoma (GBM),III,23-02-2022,St. Mary's Hospital,UK
+P100560,60,Male,Astrocytoma,IV,25-02-2024,Regional Neuro Hospital,Germany
+P100561,85,Female,Glioblastoma (GBM),IV,17-10-2021,Central Oncology Institute,USA
+P100562,68,Other,Glioblastoma (GBM),III,21-01-2025,NeuroCare Center,UK
+P100563,51,Male,Pituitary,IV,07-05-2025,Regional Neuro Hospital,USA
+P100564,72,Female,Metastasis,IV,28-09-2021,Central Oncology Institute,USA
+P100565,50,Other,Astrocytoma,III,20-08-2021,University Medical Centre,China
+P100566,27,Other,Meningioma,III,26-04-2023,Regional Neuro Hospital,Germany
+P100567,41,Other,Metastasis,IV,17-05-2021,St. Mary's Hospital,India
+P100568,29,Female,Glioblastoma (GBM),III,26-07-2023,NeuroCare Center,Brazil
+P100569,51,Male,Pituitary,III,20-02-2024,Central Oncology Institute,USA
+P100570,56,Male,Astrocytoma,II,04-10-2022,NeuroCare Center,UK
+P100571,79,Other,Glioblastoma (GBM),I,19-04-2021,University Medical Centre,Australia
+P100572,60,Other,Metastasis,III,11-03-2024,NeuroCare Center,France
+P100573,52,Male,Astrocytoma,IV,18-03-2022,NeuroCare Center,France
+P100574,67,Other,Glioblastoma (GBM),IV,24-09-2020,St. Mary's Hospital,China
+P100575,25,Female,Metastasis,IV,15-03-2022,Central Oncology Institute,Brazil
+P100576,59,Female,Glioblastoma (GBM),I,19-02-2021,St. Mary's Hospital,France
+P100577,66,Male,Glioblastoma (GBM),II,12-08-2022,Central Oncology Institute,Australia
+P100578,35,Male,Astrocytoma,IV,01-03-2021,Regional Neuro Hospital,China
+P100579,72,Female,Glioblastoma (GBM),II,18-11-2020,Central Oncology Institute,France
+P100580,60,Male,Glioblastoma (GBM),IV,30-10-2020,NeuroCare Center,Germany
+P100581,50,Female,Glioblastoma (GBM),I,04-09-2021,Central Oncology Institute,UK
+P100582,64,Male,Metastasis,IV,12-02-2023,University Medical Centre,Germany
+P100583,87,Male,Astrocytoma,IV,13-10-2020,NeuroCare Center,India
+P100584,58,Male,Pituitary,IV,24-09-2020,St. Mary's Hospital,Australia
+P100585,59,Female,Meningioma,IV,21-06-2020,University Medical Centre,France
+P100586,49,Female,Metastasis,I,12-05-2020,St. Mary's Hospital,Canada
+P100587,44,Male,Glioblastoma (GBM),IV,14-07-2024,Central Oncology Institute,USA
+P100588,67,Male,Metastasis,I,07-03-2025,University Medical Centre,Australia
+P100589,44,Other,Glioblastoma (GBM),I,31-10-2023,Regional Neuro Hospital,UK
+P100590,57,Female,Glioblastoma (GBM),II,27-07-2021,Regional Neuro Hospital,UK
+P100591,49,Male,Meningioma,IV,18-08-2023,Central Oncology Institute,Canada
+P100592,62,Female,Metastasis,III,28-06-2020,Central Oncology Institute,Australia
+P100593,60,Male,Astrocytoma,IV,20-06-2024,University Medical Centre,Germany
+P100594,70,Other,Metastasis,III,09-02-2020,Regional Neuro Hospital,Brazil
+P100595,48,Female,Astrocytoma,III,12-02-2025,University Medical Centre,Japan
+P100596,52,Female,Glioblastoma (GBM),II,15-10-2021,University Medical Centre,Germany
+P100597,42,Male,Metastasis,IV,29-04-2020,Regional Neuro Hospital,Japan
+P100598,49,Female,Pituitary,IV,17-06-2025,St. Mary's Hospital,USA
+P100599,61,Male,Meningioma,II,29-07-2024,NeuroCare Center,Germany
+P100600,66,Other,Pituitary,IV,27-12-2021,St. Mary's Hospital,UK
+P100601,43,Male,Astrocytoma,IV,29-11-2023,Central Oncology Institute,France
+P100602,68,Male,Meningioma,III,08-03-2023,University Medical Centre,UK
+P100603,74,Other,Metastasis,IV,17-07-2024,Regional Neuro Hospital,Japan
+P100604,61,Female,Glioblastoma (GBM),I,25-04-2020,St. Mary's Hospital,France
+P100605,82,Male,Glioblastoma (GBM),III,10-11-2021,University Medical Centre,Germany
+P100606,45,Male,Glioblastoma (GBM),II,01-07-2024,Central Oncology Institute,India
+P100607,38,Male,Glioblastoma (GBM),IV,17-10-2020,NeuroCare Center,Japan
+P100608,31,Female,Metastasis,III,13-04-2025,Regional Neuro Hospital,France
+P100609,76,Male,Glioblastoma (GBM),III,21-06-2025,St. Mary's Hospital,Australia
+P100610,65,Other,Metastasis,IV,22-12-2020,University Medical Centre,France
+P100611,55,Female,Glioblastoma (GBM),III,25-12-2020,Regional Neuro Hospital,China
+P100612,59,Other,Meningioma,II,01-02-2024,NeuroCare Center,France
+P100613,40,Female,Metastasis,IV,08-03-2023,NeuroCare Center,UK
+P100614,90,Other,Glioblastoma (GBM),IV,06-06-2023,St. Mary's Hospital,France
+P100615,57,Male,Metastasis,II,06-03-2024,NeuroCare Center,Germany
+P100616,57,Female,Metastasis,II,18-12-2024,NeuroCare Center,Brazil
+P100617,66,Female,Glioblastoma (GBM),II,20-11-2023,NeuroCare Center,Brazil
+P100618,62,Female,Pituitary,IV,08-04-2020,Regional Neuro Hospital,Canada
+P100619,59,Other,Astrocytoma,II,27-04-2022,Regional Neuro Hospital,Australia
+P100620,44,Female,Astrocytoma,II,08-09-2022,University Medical Centre,Germany
+P100621,62,Male,Astrocytoma,IV,09-03-2020,Central Oncology Institute,India
+P100622,82,Female,Glioblastoma (GBM),II,01-12-2021,St. Mary's Hospital,Australia
+P100623,74,Male,Meningioma,III,13-01-2025,NeuroCare Center,Brazil
+P100624,78,Other,Metastasis,IV,13-12-2023,NeuroCare Center,Australia
+P100625,48,Other,Glioblastoma (GBM),IV,17-11-2020,NeuroCare Center,USA
+P100626,42,Female,Glioblastoma (GBM),II,28-11-2023,University Medical Centre,Japan
+P100627,54,Female,Meningioma,II,15-07-2020,NeuroCare Center,Australia
+P100628,56,Other,Astrocytoma,III,21-04-2020,Central Oncology Institute,India
+P100629,71,Female,Glioblastoma (GBM),IV,04-07-2023,University Medical Centre,Canada
+P100630,32,Male,Glioblastoma (GBM),II,31-07-2023,Central Oncology Institute,USA
+P100631,77,Female,Pituitary,III,25-03-2022,Regional Neuro Hospital,Canada
+P100632,53,Other,Glioblastoma (GBM),IV,04-03-2022,St. Mary's Hospital,Brazil
+P100633,50,Female,Glioblastoma (GBM),III,23-06-2021,Regional Neuro Hospital,Canada
+P100634,41,Female,Glioblastoma (GBM),II,06-05-2020,St. Mary's Hospital,USA
+P100635,32,Male,Meningioma,IV,27-04-2022,University Medical Centre,Germany
+P100636,67,Other,Glioblastoma (GBM),III,06-12-2022,Regional Neuro Hospital,Japan
+P100637,57,Other,Metastasis,III,10-12-2024,St. Mary's Hospital,Canada
+P100638,37,Female,Glioblastoma (GBM),IV,02-01-2024,NeuroCare Center,Japan
+P100639,37,Other,Metastasis,IV,19-10-2023,University Medical Centre,UK
+P100640,51,Male,Metastasis,III,27-04-2025,St. Mary's Hospital,Germany
+P100641,79,Male,Glioblastoma (GBM),III,31-10-2023,Regional Neuro Hospital,Germany
+P100642,52,Other,Glioblastoma (GBM),III,16-10-2021,NeuroCare Center,USA
+P100643,34,Female,Astrocytoma,III,20-10-2024,Central Oncology Institute,Japan
+P100644,52,Female,Metastasis,I,05-12-2023,University Medical Centre,France
+P100645,52,Other,Pituitary,II,02-11-2020,St. Mary's Hospital,France
+P100646,18,Other,Astrocytoma,IV,24-07-2020,NeuroCare Center,France
+P100647,55,Male,Pituitary,IV,07-12-2024,Central Oncology Institute,Australia
+P100648,52,Female,Glioblastoma (GBM),III,01-06-2023,Regional Neuro Hospital,India
+P100649,65,Male,Glioblastoma (GBM),II,31-05-2023,Regional Neuro Hospital,India
+P100650,81,Female,Metastasis,III,01-05-2021,NeuroCare Center,Canada
+P100651,71,Female,Metastasis,I,01-08-2024,Central Oncology Institute,China
+P100652,52,Female,Pituitary,IV,03-11-2023,NeuroCare Center,Germany
+P100653,40,Male,Glioblastoma (GBM),IV,04-05-2024,Central Oncology Institute,China
+P100654,90,Other,Astrocytoma,IV,19-01-2021,Regional Neuro Hospital,Germany
+P100655,56,Female,Meningioma,IV,11-11-2024,Central Oncology Institute,India
+P100656,56,Other,Pituitary,I,24-12-2023,University Medical Centre,Australia
+P100657,55,Male,Pituitary,III,10-03-2023,NeuroCare Center,UK
+P100658,58,Male,Metastasis,II,28-04-2020,St. Mary's Hospital,India
+P100659,53,Female,Glioblastoma (GBM),III,11-02-2021,Central Oncology Institute,Brazil
+P100660,47,Female,Astrocytoma,IV,10-09-2020,NeuroCare Center,Germany
+P100661,48,Female,Astrocytoma,III,21-05-2025,Regional Neuro Hospital,France
+P100662,55,Other,Glioblastoma (GBM),II,05-01-2025,Central Oncology Institute,USA
+P100663,48,Female,Glioblastoma (GBM),I,14-10-2024,University Medical Centre,Germany
+P100664,46,Male,Meningioma,IV,05-07-2021,Regional Neuro Hospital,Japan
+P100665,57,Male,Metastasis,IV,29-10-2023,NeuroCare Center,Canada
+P100666,52,Male,Meningioma,IV,18-01-2020,St. Mary's Hospital,China
+P100667,77,Other,Pituitary,III,03-06-2025,Central Oncology Institute,Australia
+P100668,18,Female,Metastasis,III,22-03-2021,Regional Neuro Hospital,China
+P100669,71,Other,Astrocytoma,IV,12-04-2023,NeuroCare Center,India
+P100670,73,Other,Metastasis,IV,15-09-2024,Central Oncology Institute,Japan
+P100671,26,Other,Astrocytoma,II,02-11-2023,NeuroCare Center,Canada
+P100672,51,Male,Glioblastoma (GBM),II,27-10-2021,Central Oncology Institute,China
+P100673,50,Other,Meningioma,IV,03-09-2021,St. Mary's Hospital,UK
+P100674,36,Other,Pituitary,IV,07-07-2024,University Medical Centre,Australia
+P100675,45,Other,Glioblastoma (GBM),II,22-02-2020,Regional Neuro Hospital,China
+P100676,40,Female,Metastasis,III,17-02-2024,NeuroCare Center,France
+P100677,80,Other,Metastasis,IV,03-12-2021,St. Mary's Hospital,Japan
+P100678,69,Other,Pituitary,IV,07-10-2023,Central Oncology Institute,Japan
+P100679,73,Female,Pituitary,IV,30-11-2024,University Medical Centre,UK
+P100680,66,Female,Glioblastoma (GBM),II,13-06-2021,University Medical Centre,UK
+P100681,40,Other,Metastasis,IV,31-03-2021,Central Oncology Institute,Germany
+P100682,48,Other,Metastasis,III,21-12-2024,Central Oncology Institute,Brazil
+P100683,62,Female,Astrocytoma,III,29-08-2020,Regional Neuro Hospital,India
+P100684,38,Other,Astrocytoma,IV,25-05-2020,Regional Neuro Hospital,Germany
+P100685,65,Other,Glioblastoma (GBM),IV,21-12-2022,Central Oncology Institute,Australia
+P100686,52,Male,Metastasis,II,14-02-2021,Central Oncology Institute,Australia
+P100687,50,Other,Metastasis,IV,20-10-2020,Central Oncology Institute,UK
+P100688,65,Male,Astrocytoma,IV,28-12-2020,Central Oncology Institute,India
+P100689,62,Male,Astrocytoma,II,03-05-2024,St. Mary's Hospital,France
+P100690,50,Male,Astrocytoma,IV,29-06-2020,St. Mary's Hospital,France
+P100691,72,Female,Meningioma,III,30-05-2025,Regional Neuro Hospital,Australia
+P100692,40,Male,Glioblastoma (GBM),II,03-02-2022,NeuroCare Center,Brazil
+P100693,64,Other,Glioblastoma (GBM),IV,07-07-2023,St. Mary's Hospital,Germany
+P100694,64,Other,Metastasis,III,29-07-2020,Regional Neuro Hospital,Japan
+P100695,51,Other,Glioblastoma (GBM),I,03-04-2020,Central Oncology Institute,China
+P100696,60,Female,Meningioma,III,22-11-2021,Regional Neuro Hospital,UK
+P100697,38,Female,Metastasis,III,16-03-2024,St. Mary's Hospital,UK
+P100698,68,Female,Glioblastoma (GBM),II,25-09-2020,St. Mary's Hospital,India
+P100699,53,Other,Astrocytoma,II,27-12-2023,NeuroCare Center,Australia
+P100700,48,Other,Glioblastoma (GBM),III,09-04-2020,University Medical Centre,India
+P100701,70,Other,Glioblastoma (GBM),IV,08-04-2020,NeuroCare Center,Australia
+P100702,46,Female,Glioblastoma (GBM),III,29-08-2022,St. Mary's Hospital,Germany
+P100703,36,Other,Meningioma,I,11-05-2022,NeuroCare Center,Japan
+P100704,34,Female,Meningioma,IV,07-05-2022,NeuroCare Center,Japan
+P100705,64,Other,Meningioma,II,26-05-2024,NeuroCare Center,Canada
+P100706,38,Male,Meningioma,IV,29-08-2024,University Medical Centre,Germany
+P100707,80,Female,Meningioma,II,21-03-2020,University Medical Centre,Canada
+P100708,26,Male,Meningioma,III,25-04-2021,NeuroCare Center,India
+P100709,79,Other,Glioblastoma (GBM),II,21-03-2023,Regional Neuro Hospital,UK
+P100710,58,Male,Pituitary,I,21-01-2024,NeuroCare Center,China
+P100711,54,Other,Glioblastoma (GBM),IV,29-08-2021,Central Oncology Institute,Canada
+P100712,48,Male,Glioblastoma (GBM),II,21-03-2020,Central Oncology Institute,Brazil
+P100713,61,Other,Glioblastoma (GBM),IV,13-07-2020,NeuroCare Center,India
+P100714,55,Male,Meningioma,II,02-01-2022,Regional Neuro Hospital,France
+P100715,71,Female,Metastasis,I,27-07-2024,Central Oncology Institute,UK
+P100716,57,Male,Astrocytoma,IV,10-07-2021,Regional Neuro Hospital,Canada
+P100717,58,Female,Meningioma,IV,19-08-2020,St. Mary's Hospital,India
+P100718,50,Male,Glioblastoma (GBM),IV,15-09-2022,University Medical Centre,Canada
+P100719,55,Male,Meningioma,IV,06-06-2023,NeuroCare Center,UK
+P100720,60,Female,Metastasis,II,22-04-2022,Regional Neuro Hospital,India
+P100721,32,Male,Glioblastoma (GBM),III,13-12-2023,University Medical Centre,France
+P100722,37,Other,Astrocytoma,IV,03-10-2023,Central Oncology Institute,Japan
+P100723,66,Other,Meningioma,IV,05-06-2022,St. Mary's Hospital,Canada
+P100724,58,Female,Meningioma,IV,31-10-2020,University Medical Centre,France
+P100725,53,Male,Glioblastoma (GBM),IV,01-11-2022,Regional Neuro Hospital,Canada
+P100726,56,Male,Glioblastoma (GBM),III,08-05-2021,Central Oncology Institute,China
+P100727,60,Male,Astrocytoma,III,14-02-2022,Regional Neuro Hospital,Germany
+P100728,48,Male,Astrocytoma,IV,06-07-2022,NeuroCare Center,Canada
+P100729,45,Female,Glioblastoma (GBM),IV,06-03-2024,NeuroCare Center,USA
+P100730,58,Female,Astrocytoma,III,01-01-2020,NeuroCare Center,France
+P100731,42,Other,Meningioma,IV,25-02-2023,St. Mary's Hospital,Canada
+P100732,61,Female,Glioblastoma (GBM),I,01-04-2021,Regional Neuro Hospital,Brazil
+P100733,32,Other,Pituitary,III,07-01-2024,Central Oncology Institute,Canada
+P100734,70,Male,Glioblastoma (GBM),IV,05-01-2020,Central Oncology Institute,Brazil
+P100735,62,Other,Metastasis,II,05-12-2022,Central Oncology Institute,USA
+P100736,59,Male,Metastasis,III,10-08-2024,Regional Neuro Hospital,USA
+P100737,69,Female,Meningioma,II,20-03-2025,Regional Neuro Hospital,Germany
+P100738,79,Female,Pituitary,II,23-11-2021,NeuroCare Center,Australia
+P100739,70,Male,Metastasis,IV,20-04-2023,NeuroCare Center,Canada
+P100740,30,Female,Meningioma,IV,02-10-2020,Regional Neuro Hospital,India
+P100741,38,Other,Meningioma,III,05-06-2022,University Medical Centre,Canada
+P100742,47,Other,Pituitary,IV,17-11-2023,University Medical Centre,UK
+P100743,56,Other,Pituitary,II,08-09-2023,University Medical Centre,France
+P100744,63,Female,Astrocytoma,III,01-06-2023,St. Mary's Hospital,China
+P100745,45,Female,Metastasis,IV,16-07-2022,St. Mary's Hospital,UK
+P100746,58,Female,Meningioma,IV,15-11-2022,Central Oncology Institute,Japan
+P100747,45,Female,Meningioma,IV,19-07-2023,St. Mary's Hospital,Germany
+P100748,47,Male,Meningioma,II,08-12-2021,St. Mary's Hospital,UK
+P100749,36,Other,Astrocytoma,IV,25-12-2023,NeuroCare Center,Brazil
+P100750,43,Other,Astrocytoma,III,28-09-2023,Regional Neuro Hospital,Japan
+P100751,37,Female,Metastasis,III,27-01-2020,University Medical Centre,USA
+P100752,42,Male,Glioblastoma (GBM),I,25-04-2020,St. Mary's Hospital,China
+P100753,70,Male,Metastasis,IV,26-10-2020,NeuroCare Center,China
+P100754,42,Male,Pituitary,I,25-07-2024,Regional Neuro Hospital,USA
+P100755,90,Other,Metastasis,IV,06-11-2024,St. Mary's Hospital,Japan
+P100756,62,Female,Glioblastoma (GBM),IV,23-06-2024,Central Oncology Institute,India
+P100757,58,Female,Glioblastoma (GBM),IV,21-06-2025,Central Oncology Institute,Japan
+P100758,43,Male,Glioblastoma (GBM),II,24-06-2023,Regional Neuro Hospital,Germany
+P100759,65,Other,Meningioma,IV,26-03-2024,University Medical Centre,Japan
+P100760,47,Other,Meningioma,IV,28-05-2025,St. Mary's Hospital,China
+P100761,57,Female,Glioblastoma (GBM),IV,17-01-2021,St. Mary's Hospital,Japan
+P100762,90,Male,Glioblastoma (GBM),III,13-02-2023,Central Oncology Institute,UK
+P100763,54,Male,Astrocytoma,II,07-11-2021,Regional Neuro Hospital,UK
+P100764,72,Male,Glioblastoma (GBM),III,14-04-2020,University Medical Centre,China
+P100765,46,Female,Pituitary,III,29-05-2020,Central Oncology Institute,Japan
+P100766,55,Male,Metastasis,III,29-05-2024,University Medical Centre,UK
+P100767,80,Female,Astrocytoma,III,16-12-2021,St. Mary's Hospital,Germany
+P100768,47,Other,Glioblastoma (GBM),III,23-03-2021,University Medical Centre,Japan
+P100769,81,Female,Metastasis,IV,22-08-2023,NeuroCare Center,USA
+P100770,65,Other,Glioblastoma (GBM),II,08-08-2023,University Medical Centre,France
+P100771,48,Male,Metastasis,IV,19-10-2021,Regional Neuro Hospital,USA
+P100772,64,Female,Glioblastoma (GBM),IV,20-02-2020,University Medical Centre,Brazil
+P100773,69,Other,Pituitary,III,30-03-2020,Central Oncology Institute,Germany
+P100774,64,Female,Astrocytoma,IV,08-12-2020,University Medical Centre,Japan
+P100775,34,Male,Meningioma,II,13-07-2023,St. Mary's Hospital,Australia
+P100776,45,Male,Glioblastoma (GBM),IV,04-12-2024,Regional Neuro Hospital,USA
+P100777,52,Other,Meningioma,I,08-01-2024,Central Oncology Institute,India
+P100778,54,Male,Glioblastoma (GBM),II,30-05-2021,University Medical Centre,USA
+P100779,64,Other,Pituitary,IV,14-04-2022,Regional Neuro Hospital,Canada
+P100780,58,Other,Astrocytoma,III,08-03-2022,NeuroCare Center,Japan
+P100781,37,Male,Meningioma,IV,28-03-2024,University Medical Centre,India
+P100782,61,Other,Pituitary,III,26-10-2022,NeuroCare Center,China
+P100783,64,Other,Glioblastoma (GBM),I,16-04-2024,Regional Neuro Hospital,Australia
+P100784,63,Female,Pituitary,I,16-11-2020,University Medical Centre,Germany
+P100785,71,Male,Meningioma,IV,05-10-2024,University Medical Centre,China
+P100786,67,Other,Glioblastoma (GBM),IV,15-02-2025,Central Oncology Institute,India
+P100787,62,Other,Metastasis,II,26-03-2020,NeuroCare Center,France
+P100788,55,Other,Glioblastoma (GBM),III,23-06-2020,Central Oncology Institute,Germany
+P100789,32,Other,Meningioma,IV,09-03-2021,Regional Neuro Hospital,Japan
+P100790,62,Male,Glioblastoma (GBM),II,05-09-2024,Central Oncology Institute,Germany
+P100791,58,Male,Glioblastoma (GBM),IV,11-10-2024,NeuroCare Center,Japan
+P100792,59,Female,Meningioma,I,07-10-2023,NeuroCare Center,China
+P100793,38,Male,Glioblastoma (GBM),III,02-05-2025,Central Oncology Institute,Brazil
+P100794,40,Male,Meningioma,II,06-08-2021,University Medical Centre,USA
+P100795,70,Male,Glioblastoma (GBM),III,16-06-2023,Central Oncology Institute,France
+P100796,55,Male,Astrocytoma,III,09-10-2021,Regional Neuro Hospital,UK
+P100797,65,Male,Glioblastoma (GBM),IV,29-12-2023,Regional Neuro Hospital,China
+P100798,56,Female,Glioblastoma (GBM),IV,02-12-2024,Regional Neuro Hospital,Canada
+P100799,56,Female,Glioblastoma (GBM),III,03-02-2023,NeuroCare Center,UK
+P100800,69,Other,Meningioma,IV,24-10-2024,St. Mary's Hospital,Japan
+P100801,48,Male,Glioblastoma (GBM),IV,05-06-2020,NeuroCare Center,India
+P100802,57,Other,Meningioma,IV,31-03-2023,Regional Neuro Hospital,France
+P100803,49,Male,Metastasis,III,18-01-2023,University Medical Centre,Canada
+P100804,49,Other,Pituitary,III,02-04-2021,University Medical Centre,China
+P100805,51,Male,Astrocytoma,III,23-03-2022,Central Oncology Institute,Japan
+P100806,59,Male,Meningioma,IV,09-07-2024,University Medical Centre,UK
+P100807,49,Other,Glioblastoma (GBM),II,05-03-2023,University Medical Centre,UK
+P100808,73,Other,Meningioma,IV,23-03-2020,St. Mary's Hospital,Canada
+P100809,43,Male,Glioblastoma (GBM),III,28-03-2020,St. Mary's Hospital,Japan
+P100810,53,Female,Glioblastoma (GBM),IV,10-12-2024,NeuroCare Center,India
+P100811,49,Other,Glioblastoma (GBM),IV,03-12-2022,Central Oncology Institute,China
+P100812,76,Other,Astrocytoma,II,31-08-2023,Regional Neuro Hospital,Brazil
+P100813,58,Other,Meningioma,IV,24-11-2022,Central Oncology Institute,Australia
+P100814,70,Male,Astrocytoma,III,12-11-2024,Central Oncology Institute,Canada
+P100815,35,Female,Metastasis,I,11-12-2024,St. Mary's Hospital,Canada
+P100816,59,Male,Glioblastoma (GBM),III,29-07-2021,St. Mary's Hospital,UK
+P100817,68,Male,Glioblastoma (GBM),IV,31-07-2024,NeuroCare Center,Germany
+P100818,57,Female,Pituitary,IV,13-09-2022,Regional Neuro Hospital,Canada
+P100819,70,Male,Astrocytoma,IV,21-04-2022,NeuroCare Center,Germany
+P100820,48,Male,Glioblastoma (GBM),III,02-10-2020,University Medical Centre,India
+P100821,75,Other,Glioblastoma (GBM),II,04-03-2025,St. Mary's Hospital,Japan
+P100822,88,Female,Astrocytoma,III,08-02-2020,Central Oncology Institute,USA
+P100823,50,Male,Astrocytoma,IV,11-11-2024,Regional Neuro Hospital,UK
+P100824,49,Male,Pituitary,IV,15-06-2024,University Medical Centre,UK
+P100825,76,Other,Meningioma,II,23-01-2024,Central Oncology Institute,Canada
+P100826,78,Other,Astrocytoma,II,28-02-2022,St. Mary's Hospital,USA
+P100827,48,Male,Glioblastoma (GBM),IV,29-10-2022,Regional Neuro Hospital,UK
+P100828,50,Other,Glioblastoma (GBM),III,13-06-2023,University Medical Centre,India
+P100829,52,Other,Astrocytoma,II,14-09-2022,St. Mary's Hospital,France
+P100830,37,Other,Pituitary,IV,05-05-2024,Regional Neuro Hospital,Japan
+P100831,43,Female,Glioblastoma (GBM),I,21-12-2022,Regional Neuro Hospital,Germany
+P100832,41,Female,Pituitary,III,21-04-2023,University Medical Centre,USA
+P100833,45,Female,Glioblastoma (GBM),III,21-04-2021,NeuroCare Center,China
+P100834,55,Other,Metastasis,III,22-01-2021,NeuroCare Center,India
+P100835,59,Other,Astrocytoma,III,07-02-2022,St. Mary's Hospital,Brazil
+P100836,77,Female,Glioblastoma (GBM),II,27-08-2023,University Medical Centre,China
+P100837,42,Female,Metastasis,III,18-01-2022,University Medical Centre,China
+P100838,69,Other,Glioblastoma (GBM),II,04-02-2023,University Medical Centre,Canada
+P100839,53,Male,Glioblastoma (GBM),III,03-06-2021,Central Oncology Institute,France
+P100840,55,Female,Pituitary,III,09-10-2020,NeuroCare Center,Germany
+P100841,65,Female,Pituitary,IV,24-07-2020,St. Mary's Hospital,Japan
+P100842,40,Female,Pituitary,IV,11-06-2023,NeuroCare Center,UK
+P100843,61,Female,Metastasis,I,05-07-2020,St. Mary's Hospital,Canada
+P100844,58,Other,Astrocytoma,I,30-03-2021,Central Oncology Institute,USA
+P100845,62,Other,Glioblastoma (GBM),III,31-03-2022,University Medical Centre,Japan
+P100846,60,Female,Meningioma,III,20-04-2025,St. Mary's Hospital,Canada
+P100847,90,Female,Glioblastoma (GBM),IV,21-03-2025,University Medical Centre,China
+P100848,47,Male,Glioblastoma (GBM),III,22-11-2022,St. Mary's Hospital,France
+P100849,48,Male,Meningioma,III,03-09-2023,NeuroCare Center,UK
+P100850,47,Male,Metastasis,IV,24-12-2021,Regional Neuro Hospital,Australia
+P100851,48,Other,Glioblastoma (GBM),I,12-12-2023,NeuroCare Center,USA
+P100852,47,Other,Glioblastoma (GBM),IV,16-02-2025,University Medical Centre,Brazil
+P100853,72,Female,Metastasis,II,26-05-2023,St. Mary's Hospital,Canada
+P100854,75,Female,Astrocytoma,II,13-04-2022,University Medical Centre,USA
+P100855,48,Other,Glioblastoma (GBM),II,23-04-2025,NeuroCare Center,Japan
+P100856,44,Female,Metastasis,IV,23-03-2023,Central Oncology Institute,Canada
+P100857,62,Female,Astrocytoma,IV,31-03-2024,Central Oncology Institute,Canada
+P100858,48,Other,Astrocytoma,III,26-02-2020,Regional Neuro Hospital,USA
+P100859,64,Female,Glioblastoma (GBM),IV,27-03-2021,St. Mary's Hospital,Brazil
+P100860,58,Female,Metastasis,III,20-01-2020,Central Oncology Institute,Germany
+P100861,34,Female,Glioblastoma (GBM),IV,08-08-2024,Central Oncology Institute,USA
+P100862,77,Other,Metastasis,III,25-12-2021,St. Mary's Hospital,France
+P100863,81,Female,Glioblastoma (GBM),IV,20-03-2025,St. Mary's Hospital,Canada
+P100864,47,Other,Glioblastoma (GBM),IV,22-11-2024,Central Oncology Institute,Germany
+P100865,50,Male,Glioblastoma (GBM),II,20-06-2023,Central Oncology Institute,UK
+P100866,60,Male,Glioblastoma (GBM),I,11-05-2025,Regional Neuro Hospital,France
+P100867,60,Male,Pituitary,III,27-03-2020,Regional Neuro Hospital,Brazil
+P100868,65,Other,Glioblastoma (GBM),IV,09-12-2024,University Medical Centre,China
+P100869,84,Female,Glioblastoma (GBM),IV,12-11-2022,Central Oncology Institute,Australia
+P100870,53,Male,Pituitary,II,12-12-2022,Regional Neuro Hospital,Canada
+P100871,44,Other,Glioblastoma (GBM),III,28-10-2024,St. Mary's Hospital,Canada
+P100872,36,Male,Meningioma,III,12-11-2023,NeuroCare Center,India
+P100873,45,Other,Glioblastoma (GBM),III,28-10-2021,Central Oncology Institute,France
+P100874,55,Female,Glioblastoma (GBM),II,05-07-2021,Regional Neuro Hospital,France
+P100875,81,Female,Glioblastoma (GBM),III,07-03-2021,Regional Neuro Hospital,Brazil
+P100876,48,Female,Metastasis,II,03-01-2021,University Medical Centre,UK
+P100877,59,Other,Meningioma,IV,16-01-2024,Central Oncology Institute,Germany
+P100878,55,Other,Astrocytoma,III,25-10-2020,St. Mary's Hospital,Canada
+P100879,72,Male,Glioblastoma (GBM),III,03-01-2025,University Medical Centre,Japan
+P100880,90,Other,Glioblastoma (GBM),III,28-05-2021,University Medical Centre,France
+P100881,48,Male,Glioblastoma (GBM),IV,02-05-2020,St. Mary's Hospital,China
+P100882,49,Female,Pituitary,I,04-03-2024,Central Oncology Institute,China
+P100883,70,Female,Glioblastoma (GBM),III,16-07-2024,Central Oncology Institute,Brazil
+P100884,65,Male,Astrocytoma,III,23-10-2023,University Medical Centre,Germany
+P100885,81,Other,Astrocytoma,IV,23-12-2020,Central Oncology Institute,Brazil
+P100886,64,Female,Meningioma,III,17-02-2024,Regional Neuro Hospital,USA
+P100887,50,Female,Meningioma,III,13-05-2025,St. Mary's Hospital,UK
+P100888,64,Other,Pituitary,III,16-07-2023,University Medical Centre,France
+P100889,71,Female,Pituitary,I,27-11-2020,Central Oncology Institute,Germany
+P100890,67,Female,Glioblastoma (GBM),II,01-07-2021,University Medical Centre,Australia
+P100891,63,Female,Metastasis,IV,06-04-2025,Central Oncology Institute,France
+P100892,70,Other,Metastasis,III,11-01-2021,NeuroCare Center,UK
+P100893,72,Other,Glioblastoma (GBM),II,03-03-2024,NeuroCare Center,Germany
+P100894,75,Male,Glioblastoma (GBM),I,02-04-2025,Regional Neuro Hospital,Japan
+P100895,65,Male,Glioblastoma (GBM),III,15-04-2024,NeuroCare Center,USA
+P100896,53,Female,Meningioma,I,22-03-2025,Regional Neuro Hospital,China
+P100897,58,Male,Glioblastoma (GBM),II,07-07-2023,St. Mary's Hospital,UK
+P100898,72,Other,Pituitary,I,20-09-2023,Central Oncology Institute,Brazil
+P100899,44,Female,Astrocytoma,IV,29-03-2025,Central Oncology Institute,Japan
+P100900,61,Female,Glioblastoma (GBM),IV,09-01-2023,St. Mary's Hospital,France
+P100901,50,Other,Astrocytoma,IV,01-12-2024,University Medical Centre,Australia
+P100902,56,Other,Meningioma,III,04-02-2025,Central Oncology Institute,Canada
+P100903,73,Other,Glioblastoma (GBM),I,22-09-2021,Central Oncology Institute,Australia
+P100904,58,Female,Glioblastoma (GBM),I,07-12-2022,St. Mary's Hospital,Brazil
+P100905,56,Female,Astrocytoma,I,03-03-2025,Regional Neuro Hospital,Canada
+P100906,36,Female,Glioblastoma (GBM),III,22-08-2021,University Medical Centre,Germany
+P100907,66,Male,Astrocytoma,II,11-12-2024,University Medical Centre,Australia
+P100908,65,Female,Glioblastoma (GBM),IV,15-08-2023,Regional Neuro Hospital,Australia
+P100909,86,Male,Glioblastoma (GBM),III,05-05-2021,University Medical Centre,France
+P100910,51,Other,Meningioma,II,01-03-2024,University Medical Centre,China
+P100911,59,Female,Glioblastoma (GBM),I,06-10-2020,Central Oncology Institute,USA
+P100912,59,Other,Astrocytoma,III,05-12-2023,University Medical Centre,Canada
+P100913,78,Male,Glioblastoma (GBM),II,08-06-2025,University Medical Centre,India
+P100914,54,Male,Metastasis,II,13-09-2020,Regional Neuro Hospital,India
+P100915,59,Male,Glioblastoma (GBM),I,20-03-2021,Central Oncology Institute,Australia
+P100916,64,Female,Pituitary,III,30-01-2022,Regional Neuro Hospital,India
+P100917,58,Female,Glioblastoma (GBM),IV,26-10-2020,NeuroCare Center,China
+P100918,49,Female,Glioblastoma (GBM),III,28-01-2021,Central Oncology Institute,Australia
+P100919,58,Male,Glioblastoma (GBM),IV,24-05-2021,Regional Neuro Hospital,Canada
+P100920,71,Male,Meningioma,I,01-08-2022,NeuroCare Center,Japan
+P100921,41,Other,Metastasis,III,27-10-2023,Central Oncology Institute,Brazil
+P100922,57,Male,Meningioma,I,03-04-2025,University Medical Centre,Japan
+P100923,46,Male,Glioblastoma (GBM),IV,10-02-2021,Central Oncology Institute,India
+P100924,72,Other,Glioblastoma (GBM),II,20-07-2023,Regional Neuro Hospital,Brazil
+P100925,34,Male,Glioblastoma (GBM),II,02-09-2020,Regional Neuro Hospital,Germany
+P100926,48,Male,Metastasis,III,15-11-2023,Regional Neuro Hospital,France
+P100927,61,Male,Glioblastoma (GBM),I,18-11-2020,Regional Neuro Hospital,USA
+P100928,77,Other,Meningioma,IV,04-04-2024,NeuroCare Center,India
+P100929,55,Female,Meningioma,IV,08-06-2024,NeuroCare Center,UK
+P100930,48,Female,Glioblastoma (GBM),IV,02-06-2024,Central Oncology Institute,Canada
+P100931,82,Other,Glioblastoma (GBM),IV,03-01-2022,St. Mary's Hospital,China
+P100932,35,Male,Astrocytoma,III,26-08-2021,University Medical Centre,Canada
+P100933,25,Male,Astrocytoma,III,24-10-2021,Regional Neuro Hospital,China
+P100934,62,Other,Metastasis,III,21-05-2020,University Medical Centre,UK
+P100935,48,Female,Glioblastoma (GBM),II,21-01-2022,Regional Neuro Hospital,India
+P100936,41,Other,Astrocytoma,IV,13-12-2024,NeuroCare Center,France
+P100937,65,Female,Pituitary,II,16-01-2024,NeuroCare Center,Japan
+P100938,59,Female,Glioblastoma (GBM),IV,17-04-2024,University Medical Centre,UK
+P100939,48,Other,Glioblastoma (GBM),III,21-10-2021,NeuroCare Center,USA
+P100940,38,Other,Meningioma,I,04-04-2025,St. Mary's Hospital,UK
+P100941,68,Male,Glioblastoma (GBM),III,21-07-2020,NeuroCare Center,France
+P100942,65,Other,Pituitary,IV,12-12-2022,University Medical Centre,France
+P100943,54,Female,Glioblastoma (GBM),II,10-01-2024,NeuroCare Center,India
+P100944,81,Male,Meningioma,IV,31-08-2024,NeuroCare Center,Canada
+P100945,41,Other,Glioblastoma (GBM),III,05-04-2025,Regional Neuro Hospital,Brazil
+P100946,34,Other,Glioblastoma (GBM),IV,19-12-2022,NeuroCare Center,USA
+P100947,46,Female,Glioblastoma (GBM),II,29-11-2022,NeuroCare Center,USA
+P100948,55,Other,Glioblastoma (GBM),III,30-01-2021,University Medical Centre,Germany
+P100949,59,Other,Meningioma,II,14-03-2024,University Medical Centre,Australia
+P100950,52,Other,Glioblastoma (GBM),IV,03-01-2022,Regional Neuro Hospital,Australia
+P100951,60,Male,Glioblastoma (GBM),II,02-04-2022,University Medical Centre,Brazil
+P100952,38,Other,Glioblastoma (GBM),IV,26-06-2022,Central Oncology Institute,Brazil
+P100953,76,Other,Metastasis,III,31-01-2022,Regional Neuro Hospital,Australia
+P100954,54,Other,Glioblastoma (GBM),II,22-01-2023,St. Mary's Hospital,Australia
+P100955,71,Other,Metastasis,II,23-05-2025,Regional Neuro Hospital,Canada
+P100956,60,Female,Glioblastoma (GBM),I,05-08-2021,University Medical Centre,India
+P100957,62,Other,Glioblastoma (GBM),IV,14-01-2020,Central Oncology Institute,Germany
+P100958,63,Male,Metastasis,I,10-08-2024,Central Oncology Institute,Japan
+P100959,62,Other,Astrocytoma,IV,12-11-2020,NeuroCare Center,India
+P100960,64,Female,Glioblastoma (GBM),II,21-01-2022,University Medical Centre,Germany
+P100961,74,Male,Glioblastoma (GBM),III,14-03-2023,Regional Neuro Hospital,France
+P100962,58,Male,Meningioma,IV,11-06-2024,Regional Neuro Hospital,UK
+P100963,65,Female,Pituitary,IV,26-03-2023,NeuroCare Center,France
+P100964,54,Other,Glioblastoma (GBM),IV,26-03-2023,Regional Neuro Hospital,USA
+P100965,76,Male,Metastasis,III,06-12-2024,Regional Neuro Hospital,Australia
+P100966,46,Male,Metastasis,II,29-08-2023,University Medical Centre,India
+P100967,81,Other,Pituitary,III,16-09-2021,University Medical Centre,India
+P100968,55,Female,Astrocytoma,II,25-10-2022,St. Mary's Hospital,UK
+P100969,35,Male,Meningioma,IV,11-06-2025,Regional Neuro Hospital,France
+P100970,57,Other,Astrocytoma,II,16-08-2021,Regional Neuro Hospital,UK
+P100971,46,Male,Glioblastoma (GBM),III,06-03-2024,NeuroCare Center,Japan
+P100972,67,Female,Glioblastoma (GBM),III,08-06-2022,St. Mary's Hospital,UK
+P100973,46,Female,Astrocytoma,III,28-08-2023,University Medical Centre,Germany
+P100974,49,Other,Meningioma,IV,19-05-2021,St. Mary's Hospital,USA
+P100975,29,Female,Pituitary,III,07-03-2025,University Medical Centre,USA
+P100976,49,Male,Meningioma,III,14-12-2021,St. Mary's Hospital,Brazil
+P100977,22,Female,Astrocytoma,I,16-09-2021,St. Mary's Hospital,Brazil
+P100978,33,Other,Pituitary,IV,30-06-2023,St. Mary's Hospital,Canada
+P100979,66,Male,Metastasis,II,04-11-2023,Central Oncology Institute,UK
+P100980,67,Other,Metastasis,II,21-04-2020,St. Mary's Hospital,France
+P100981,61,Male,Metastasis,IV,29-01-2020,Central Oncology Institute,USA
+P100982,42,Female,Astrocytoma,I,04-03-2021,University Medical Centre,Germany
+P100983,55,Male,Astrocytoma,IV,28-01-2023,Regional Neuro Hospital,France
+P100984,55,Other,Metastasis,IV,30-09-2023,NeuroCare Center,Australia
+P100985,39,Other,Metastasis,III,07-06-2021,St. Mary's Hospital,India
+P100986,77,Female,Glioblastoma (GBM),IV,09-07-2021,NeuroCare Center,Canada
+P100987,68,Other,Metastasis,I,14-09-2023,Central Oncology Institute,Brazil
+P100988,52,Male,Glioblastoma (GBM),IV,22-08-2023,Regional Neuro Hospital,Germany
+P100989,56,Female,Astrocytoma,IV,25-01-2025,Central Oncology Institute,Canada
+P100990,58,Other,Astrocytoma,II,22-10-2022,Regional Neuro Hospital,Japan
+P100991,27,Other,Glioblastoma (GBM),II,20-12-2022,Central Oncology Institute,Brazil
+P100992,52,Female,Glioblastoma (GBM),II,11-12-2021,Central Oncology Institute,Brazil
+P100993,46,Other,Glioblastoma (GBM),IV,23-10-2022,Central Oncology Institute,India
+P100994,41,Other,Glioblastoma (GBM),III,26-07-2024,NeuroCare Center,Japan
+P100995,52,Female,Glioblastoma (GBM),III,15-03-2022,St. Mary's Hospital,USA
+P100996,81,Other,Glioblastoma (GBM),IV,08-06-2023,St. Mary's Hospital,Australia
+P100997,64,Male,Astrocytoma,III,01-10-2021,University Medical Centre,Brazil
+P100998,48,Female,Astrocytoma,II,10-10-2020,University Medical Centre,Japan
+P100999,64,Other,Pituitary,IV,24-09-2021,University Medical Centre,UK
