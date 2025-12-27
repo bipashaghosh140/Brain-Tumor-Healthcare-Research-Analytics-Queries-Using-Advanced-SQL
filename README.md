@@ -43,6 +43,9 @@ The project focuses on the following analytical tasks:
 •	Creation and management of database VIEWS
 SQL Queries and Analysis: include here 5-6 queries and link for the complete query script
 Execution and Output: include here the query output snapshots
+📌 Complete SQL Script:
+👉 [Link to full SQL query file]
+(Query Mini Project.sql)
 
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
