@@ -46,7 +46,7 @@ Execution and Output: include here the query output snapshots
 📌 **Complete SQL Query Script:**  
 👉 **[Query_Mini_Project.sql](Query_Mini_Project.sql)**
 # Query 1 - Output Screenshot
-![Query Output - 1](/Images/q-output_1.jpg)
+![Query Output - 1](/Images/Output_1.jpg)
 # Query 2 - Output Screenshot
 ![Query Output - 2](Output-2.png)
 
