@@ -1,48 +1,130 @@
-# Brain-Tumor-Healthcare-Research-Analytics-Queries-Using-Advanced-SQL
-This project applies advanced SQL analytics to a healthcare case study on brain tumour diagnosis, treatment, and research outcomes. Using simulated real-world clinical data, it leverages relational models, complex joins, and window functions to generate insights, suitable for interviews and GitHub portfolios.
-Brain Tumour Healthcare & Research Analytics
-# 1. Project Title
+🧠 Brain Tumour Healthcare & Research Analytics Using Advanced SQL
+📌 Project Overview
+
+This project applies advanced SQL analytics to a healthcare case study focused on brain tumour diagnosis, treatment, and clinical research outcomes. Using synthetically generated real-world clinical data, it demonstrates how structured healthcare data can be analyzed using relational models, complex joins, and window functions.
+
+This project is ideal for:
+
+🎯 Technical interviews
+
+🎓 Academic evaluations
+
+💼 GitHub portfolio presentation
+
+1️⃣ Project Title
+
 Brain Tumour Healthcare & Research Analytics using Advanced SQL
-# 2. Project Description
-This project demonstrates the application of advanced SQL-based data analysis in the healthcare domain, with a focused case study on brain tumour diagnosis, treatment, and clinical research outcomes. The dataset simulates real-world clinical data commonly used in neuro-oncology research and hospital analytics.
-The primary aim is to extract meaningful insights from structured medical data using relational database concepts, complex joins, and window functions. The project is designed to be presented in technical interviews and showcased on GitHub as a complete data analytics case study.
-# 3. Problem Statement
-Brain tumour management involves integrating multiple data sources such as patient demographics, imaging findings, molecular biomarkers, treatment protocols, and survival outcomes. Traditional reporting methods are insufficient to capture complex trends across these dimensions.
-This project addresses the need for structured data analysis by using SQL to:
-•	Analyze survival outcomes across tumor types
-•	Compare treatment effectiveness
-•	Evaluate the impact of imaging and genomic biomarkers
-•	Assess clinical trial participation and research outcomes
-# 4. Dataset Overview
-The dataset consists of five interrelated CSV files representing different aspects of brain tumour healthcare:
-•	Patients: Demographics, tumor type, diagnosis date, hospital, country
-•	Imaging: MRI-based tumor volume, radiomic score, contrast enhancement
-•	Genomics: MGMT, EGFR, IDH status, TMB, immune biomarker score
-•	Treatments: Treatment type, response, survival duration
-•	Clinical Trials: Trial enrollment, phase, and outcomes
-Each table contains 1000 records, enabling realistic analytical scenarios.
-# 5. Database Schema
-•	Patients (PK: patient_id)
-o	One-to-Many → Imaging
-o	One-to-One → Genomics
-o	One-to-Many → Treatments
-o	One-to-Many → Clinical_Trials
-All tables are linked using patient_id as the foreign key.
-# 6. Analytical Objectives
-The project focuses on the following analytical tasks:
-•	Ranking patients by survival within tumor types
-•	Identifying top-performing treatments
-•	Segmenting patients into risk groups
-•	Comparing trial-enrolled vs non-enrolled patient outcomes
-•	Hospital-level and population-level performance analysis
-# 7. SQL Concepts Demonstrated
-•	Multi-table JOINs
-•	Window functions: RANK(), DENSE_RANK(), ROW_NUMBER(), NTILE()
-•	GROUP BY vs PARTITION BY
-•	Aggregate functions with ordering
-•	Creation and management of database VIEWS
-SQL Queries and Analysis: include here 5-6 queries and link for the complete query script
-Execution and Output: include here the query output snapshots
+
+2️⃣ Project Description
+
+This project showcases the application of advanced SQL-based data analysis in the healthcare domain, with a focus on neuro-oncology analytics.
+
+The dataset simulates realistic hospital and research data commonly used in:
+
+Clinical outcome analysis
+
+Treatment effectiveness studies
+
+Biomarker-driven research
+
+The primary goal is to extract meaningful insights from structured medical data using:
+
+Relational database design
+
+Multi-table joins
+
+Window functions and analytical queries
+
+3️⃣ Problem Statement
+
+Brain tumour management involves integrating multiple data sources such as:
+
+Patient demographics
+
+Imaging findings
+
+Genomic and molecular biomarkers
+
+Treatment protocols
+
+Survival and clinical trial outcomes
+
+Traditional reporting methods fail to capture complex relationships across these dimensions.
+
+This project addresses these challenges using SQL to:
+
+Analyze survival outcomes across tumour types
+
+Compare treatment effectiveness
+
+Evaluate imaging and genomic biomarkers
+
+Assess the impact of clinical trial participation
+
+4️⃣ Dataset Overview
+
+The dataset consists of five interrelated CSV files, each representing a core component of brain tumour healthcare data.
+
+Table Name	Description
+Patients	Demographics, tumour type, diagnosis date, hospital, country
+Imaging	MRI tumour volume, radiomic score, contrast enhancement
+Genomics	MGMT, EGFR, IDH status, TMB, immune biomarker score
+Treatments	Treatment type, response, survival duration
+Clinical_Trials	Trial enrollment status, phase, and outcomes
+
+📊 Each table contains 1000 records, enabling realistic analytical scenarios.
+
+5️⃣ Database Schema
+
+Primary Key: patient_id
+
+Relationships:
+
+Patients → Imaging (One-to-Many)
+
+Patients → Genomics (One-to-One)
+
+Patients → Treatments (One-to-Many)
+
+Patients → Clinical_Trials (One-to-Many)
+
+All tables are connected using patient_id as the foreign key.
+
+6️⃣ Analytical Objectives
+
+This project focuses on:
+
+Ranking patients by survival within tumour types
+
+Identifying top-performing treatments
+
+Segmenting patients into risk categories
+
+Comparing trial-enrolled vs non-enrolled patient outcomes
+
+Hospital-level and population-level performance analysis
+
+7️⃣ SQL Concepts Demonstrated
+
+Multi-table JOINs
+
+Window functions:
+
+RANK()
+
+DENSE_RANK()
+
+ROW_NUMBER()
+
+NTILE()
+
+GROUP BY vs PARTITION BY
+
+Aggregate functions with ordering
+
+Creation and usage of database VIEWs
+
+8️⃣ SQL Queries & Execution Results -
 📌 **Complete SQL Query Script:**  
 👉 **[Query_Mini_Project.sql](Query_Mini_Project.sql)**
 # Query 1 - Output Screenshot
@@ -56,30 +138,65 @@ Execution and Output: include here the query output snapshots
 # Query 5 - Output Screenshot
 ![Query Output - 5](/Images/Output_5.jpg)
 
-# 8. Key Insights Derived from Analysis
-The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
-•	Tumor-wise Survival Patterns: Glioblastoma (GBM) patients exhibit significantly lower survival durations compared to low-grade tumors such as meningioma and pituitary tumors, highlighting the aggressive nature of GBM.
-•	Treatment Effectiveness: Patients receiving combined or targeted therapies show improved average survival when compared to single-modality treatments such as chemotherapy alone.
-•	Biomarker Impact: Higher immune biomarker scores and favorable genomic markers (such as MGMT methylation and IDH mutation) are associated with better survival outcomes, supporting precision-medicine approaches.
-•	Imaging-Based Prognosis: Patients with lower tumor volume and higher radiomic scores tend to have better clinical outcomes, indicating the prognostic value of advanced imaging features.
-•	Clinical Trial Participation: Trial-enrolled patients demonstrate measurable differences in survival trends, emphasizing the importance of research-driven treatment strategies.
-•	Hospital-Level Variations: Survival outcomes and treatment distributions vary across hospitals, enabling institutional performance and care-pattern analysis.
-These insights demonstrate how structured healthcare data can be transformed into meaningful clinical and research knowledge using SQL-based analytics.
-# 9. Technology Stack
-•	Database: MySQL
-•	Language: SQL (Advanced SQL)
-•	Data Format: CSV
-•	Tools: MySQL Workbench
-•	Version Control: Git & GitHub
-•	Domain: Healthcare & Biomedical Analytics
+9️⃣ Key Insights Derived from Analysis
 
-# 10. Project Usage
+Applying advanced SQL analytics produced the following insights:
+
+Tumour-wise Survival Patterns
+Glioblastoma (GBM) patients show significantly lower survival compared to low-grade tumours such as meningioma and pituitary tumours.
+
+Treatment Effectiveness
+Combined and targeted therapies demonstrate higher average survival than single-modality treatments.
+
+Biomarker Impact
+Favorable genomic markers (MGMT methylation, IDH mutation) and higher immune biomarker scores are associated with improved survival.
+
+Imaging-Based Prognosis
+Lower tumour volume and higher radiomic scores correlate with better clinical outcomes.
+
+Clinical Trial Participation
+Trial-enrolled patients exhibit distinct survival trends, highlighting the value of research-driven care.
+
+Hospital-Level Variations
+Survival outcomes and treatment patterns vary across hospitals, enabling institutional performance analysis.
+
+🔧 Technology Stack
+
+Database: MySQL
+
+Language: SQL (Advanced SQL)
+
+Data Format: CSV
+
+Tools: MySQL Workbench
+
+Version Control: Git & GitHub
+
+Domain: Healthcare & Biomedical Analytics
+
+🔄 Project Usage
+
 This project can be used for:
-•	Technical interviews (SQL & data analytics)
-•	Academic evaluation and lab assessments
-•	Healthcare analytics demonstrations
-•	GitHub portfolio presentation
-# 11. How to Run the Project
-Include here schema creation, database import, and query execution
-# 12. Disclaimer
-This dataset is synthetically generated for educational and demonstration purposes only. It does not contain real patient data.
+
+SQL & data analytics technical interviews
+
+Academic lab assessments
+
+Healthcare analytics demonstrations
+
+GitHub portfolio showcasing
+
+▶️ How to Run the Project
+
+Create the database schema in MySQL
+
+Import all CSV files into corresponding tables
+
+Execute queries from Query_Mini_Project.sql
+
+Review query outputs and insights
+
+⚠️ Disclaimer
+
+This dataset is synthetically generated for educational and demonstration purposes only.
+It does not contain real patient data.
