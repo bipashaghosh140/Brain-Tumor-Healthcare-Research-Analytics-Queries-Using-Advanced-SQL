@@ -49,6 +49,8 @@ Execution and Output: include here the query output snapshots
 ![Query Output - 1](/Images/Output_1.jpg)
 # Query 2 - Output Screenshot
 ![Query Output - 2](/Images/Output_2.jpg)
+# Query 3 - Output Screenshot
+![Query Output - 2](/Images/Output_3.jpg)
 
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
