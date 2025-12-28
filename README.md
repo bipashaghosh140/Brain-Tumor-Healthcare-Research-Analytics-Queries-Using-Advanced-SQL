@@ -47,6 +47,8 @@ Execution and Output: include here the query output snapshots
 👉 **[Query_Mini_Project.sql](Query_Mini_Project.sql)**
 # Query 1 - Output Screenshot
 ![Query Output - 1](/Images/q-output_1.jpg)
+# Query 2 - Output Screenshot
+![Query Output - 2](Output-2.png)
 
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
